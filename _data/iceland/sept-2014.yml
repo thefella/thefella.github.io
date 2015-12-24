@@ -1,0 +1,80 @@
+schedule: 
+    - name: Friday
+      image: iceland/sun_voyager-s.jpg
+      summary: "We'll pick you up from the airport and make sure you're all set for the weekend ahead (there may be time for an exploration of central *Reykjavik*, depending on your flight's arrival)."
+      items:
+        - __Arrival__ &mdash; transfer to our accommodation on the breathtaking *Snæfellsnes Peninsula*.
+        - __Introduction__ &mdash; Walk through Saturday&rsquo;s plan, check our gear and research the weather conditions.
+        - Dinner &amp; drinks!
+        - __If the conditions are right__, we might head out to chase the aurora.
+    
+    - name: Saturday
+      image: iceland/thousand_birds-s.jpg
+      summary: "After an early start, we’ll head into the Icelandic wilderness and start shooting the majestic scenery."
+      items:
+        - Sunrise shoot (weather permitting).
+        - Visits to some of our favourite photography locations in Iceland.
+        - Sunset shoot.
+        - An evening of aurora and astrophotography if the skies cooperate!
+        
+    - name: Sunday
+      image: iceland/blue_church-s.jpg
+      summary: "One final shoot, then back to *Reykjavik* to review and process the images you've taken on this magnificent island!"
+      items:
+        - Sunrise shoot (weather permitting).
+        - Drive to our hotel in *Reykjavik*.
+        - Post-processing Master-class.
+        - Photowalk around the city (smartphones ready!).
+        - Farewell dinner & drinks.
+
+
+smartphones:
+  intro: | 
+    While you’ll likely want to capture Iceland’s incredible landscapes on the highest-quality camera possible, that doesn’t mean you should ignore the one in your pocket.
+    
+    Bring your smartphone and prepare to learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
+    
+    With over *1 million* followers on Instagram between them, [Greg](https://www.instagram.com/greg_a/), [Conor](https://www.instagram.com/thefella/) &amp; [Dan](https://www.instagram.com/danrubin/) are the men to show you how.
+  images:
+    - iceland/iphone/iphone-square-1.jpg
+    - iceland/iphone/iphone-square-bw.jpg
+    - iceland/iphone/iphone-square-3.jpg
+    - iceland/iphone/iphone-square-2.jpg
+    
+
+faq: 
+  - question: How is payment handled?
+    answer: We use a third-party service called [Ti.to](https://ti.to). This not only allows us secure online transactions, but we can accept numerous forms of payment from credit card to PayPal — whatever suits you best!
+  - question: What about flights?
+    answer: Flights to Iceland are not included, so shop around for the best deal (as always, the earlier you book, the better). For the weekend workshop, plan to arrive on the Friday morning/early afternoon, leaving Monday morning. For the week adventure, plan to arrive on the Sunday afternoon (you'll need some accommodation - we can help with this) and leave on the following Sunday afternoon / evening or Monday morning (you'd need some accommodation for Sunday night). [Let us know](mailto:contact@f8.pe) if you have any questions whatsoever!
+  - question: What type of accommodation should I expect?
+    answer: For the **Weekend Workshop**, you will be staying in hotels around the shooting locations. During the **7-day Adventure** week, you will be sleeping in a van, as that allows us to stay mobile and chase the weather — giving you the best opportunity for great shots!
+  - question: What if the weather is bad?
+    answer: Often stormy weather actually makes more interesting skies for our photographs! During the **Weekend Workshop**, we will have a *Plan B* in the case of extremely severe (aka unsafe) weather, involving food and post-processing. For the **7-day Adventure**, we can always drive and find better weather (photographically speaking).
+  - question: What skill levels do you teach?
+    answer: We teach everyone from beginners to advanced photographers. Even if you don’t have a DSLR, we can help you get the best out of whatever camera you bring along ([get in touch](mailto:contact@f8.pe) if you have any gear-specific questions prior to booking).
+  - question: Will I get to see the Northern Lights?
+    answer: Possibly! There is no guarantee that we’ll see them, as there are many weather-related variables involved, such as solar activity and cloud cover. That said, we will try our best to find them — and if you’re on our **7-day Adventure**, the chances will be much higher!
+  - question: What if I need more information?
+    answer: Feel free to [contact us](mailto:contact@f8.pe) with any queries that you may have. Once you are registered, we will send out an information pack prior to the workshop with more details. You can also tweet Conor ([@thefella](https://twitter.com/thefella)), Greg ([@greg_a](https://twitter.com/greg_a)) or Dan ([@danrubin](https://twitter.com/danrubin)).
+  - question: What about cancellations?
+    answer: "In general, we do not offer refunds, however: Depending on when you cancel and your reasons, we will do our best to refund all or some of your registration fee. You are also more than welcome to transfer your place to someone else if you can’t make it. Please check our complete [Terms & Conditions](/assets/docs/iceland/Iceland_Expedition_2014_T&C.pdf) for more details."
+    
+    
+gallery: 
+  - large: http://thefella.smugmug.com/Galleries/All/i-z2CmhLt/0/XL/The%20Horse%20Shouter-XL.jpg
+    thumb: http://thefella.smugmug.com/Galleries/All/i-z2CmhLt/0/Th/The%20Horse%20Shouter-Th.jpg
+  - large: http://thefella.smugmug.com/Galleries/All/i-Jc7HJPf/1/XL/The%20Lost%20Plane-XL.jpg
+    thumb: http://thefella.smugmug.com/Galleries/All/i-Jc7HJPf/1/Th/The%20Lost%20Plane-Th.jpg
+  - large: https://thefella.smugmug.com/Galleries/Portfolio/i-Gxw8jJC/0/XL/Under%20The%20Green%20of%20The%20Night%2C%20The%20Horses%20Did%20Roam%203-XL.jpg
+    thumb: https://thefella.smugmug.com/Galleries/Portfolio/i-Gxw8jJC/0/Th/Under%20The%20Green%20of%20The%20Night%2C%20The%20Horses%20Did%20Roam%203-Th.jpg
+  - large: http://thefella.smugmug.com/Galleries/All/i-kPxVCQD/0/XL/Midnight%20Coast-XL.jpg
+    thumb: http://thefella.smugmug.com/Galleries/All/i-kPxVCQD/0/Th/Midnight%20Coast-Th.jpg
+  - large: https://thefella.smugmug.com/Galleries/All/i-dvFvtCs/0/XL/The%20Frozen%20Teeth%20of%20Godafoss-XL.jpg
+    thumb: https://thefella.smugmug.com/Galleries/All/i-dvFvtCs/0/Th/The%20Frozen%20Teeth%20of%20Godafoss-Th.jpg
+  
+  
+  
+  
+  
+  

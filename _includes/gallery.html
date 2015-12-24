@@ -1,0 +1,14 @@
+<section id="gallery" class="group photo-group gallery-group">
+	<header>
+		<h1>Images of {{ page.location }}</h1>
+	</header>
+	
+	<figure>
+	{% for photo in include.photos %}
+	<a class="view" rel="gallery2" href="{{ photo.large }}" title="Gallery: Photo {{ forloop.index }} (fullsize)">
+		<img src="{{ photo.thumb }}" alt="">
+	</a>{% endfor %}
+	
+	<figcaption>Images of {{ page.location }}</figcaption>
+	</figure>
+</section>

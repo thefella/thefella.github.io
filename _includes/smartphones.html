@@ -1,0 +1,16 @@
+<section id="smartphones" class="group" markdown="1">
+	
+# Smartphones Welcome
+
+{{ include.smartphones.intro }}
+
+<figure class="gallery">
+{% for image in include.smartphones.images %}
+<a class="view" rel="gallery1" href="assets/img/{{ image }}" title="">
+	<img src="/assets/img/{{ image }}" alt="">
+</a>{% endfor %}
+
+<figcaption>Images above shot on <span>i</span>Phone</figcaption>
+</figure>
+
+</section>

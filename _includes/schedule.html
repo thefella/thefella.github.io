@@ -1,0 +1,16 @@
+{% for day in include.schedule %}
+<article markdown="1">
+
+### {{ day.name }}
+
+{::nomarkdown}
+<img src="/assets/img/{{ day.image }}" alt="" />
+{:/}
+
+{{ day.summary }}
+
+{% for item in day.items %}
+* {{ item }} {% endfor %}
+
+</article>
+{% endfor %}

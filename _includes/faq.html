@@ -1,0 +1,10 @@
+<section id="faq" class="group text-list" markdown="1">
+
+# Frequently Asked Questions
+
+{% for item in include.faq %}
+* ###{{ item.question }}
+{{ item.answer }}
+{% endfor %}
+
+</section>
