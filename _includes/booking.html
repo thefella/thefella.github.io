@@ -1,5 +1,9 @@
+<section id="booking" class="group">
+
 {% if page.soldout or page.date <= site.time %}
 {% include mailchimp.html %}
 {% else %}
 {% include tito.html %}
 {% endif %}
+
+</section>

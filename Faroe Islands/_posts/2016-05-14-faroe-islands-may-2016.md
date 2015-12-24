@@ -1,5 +1,5 @@
 ---
-#BASICS
+# BASICS
 title: 			"Faroe Islands 2016"
 location: 		"The Faroe Islands"
 hero: 			"Faroe Islands"
@@ -10,7 +10,7 @@ endDate: 		2016-05-21
 heroImage: 		/assets/img/faroes/saksun-x3.jpg
 
 
-#AVAILABILITY
+# AVAILABILITY
 published: 		true
 status: 		confirmed
 soldout: 		false
@@ -33,17 +33,18 @@ secondaryNav:
   - Questions?
 
 
-#ORGANISATION
+# ORGANISATION
 tags:
   - faroes
 categories:
   - upcoming
   
 
-#LAYOUT
+# LAYOUT
 pageClass: 		"workshop faroe-islands faroe-islands-may-2016"
 layout: 		workshop
 ---
 
 
-Faroes
+[//]: # Teachers
+{% include teachers.html teachers=site.data.teachers %}

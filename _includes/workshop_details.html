@@ -1,0 +1,37 @@
+<section id="details" class="group listful details-group">
+<header class="decorative">
+<h1>Workshop Details</h1>
+<p>Interested in joining us? Here&rsquo;s what you&rsquo;ll need to know.</p>
+</header>
+
+<article>
+<h2>Where</h2>
+<p>{{ include.details.intro }}</p>
+<p>
+	<img src="/assets/img/{{ include.details.map }}" alt="Satellite image of the country">
+</p>
+</article>
+
+
+<article markdown="1">
+<h2>What to bring</h2>
+<p>{{ include.details.gear_intro }}</p>
+{% for item in include.details.gear %}
+* {{ item }} {% endfor %}
+</article>
+
+
+<article class="yes-list" markdown="1">
+<h2>What&rsquo;s Included</h2>
+{% for item in include.details.included %}
+* {{ item }} {% endfor %}
+</article>
+
+
+<article class="no-list" markdown="1">
+<h2>What&rsquo;s <i>Not</i> Included</h2>
+{% for item in include.details.notincluded %}
+* {{ item }} {% endfor %}
+</article>
+
+</section>

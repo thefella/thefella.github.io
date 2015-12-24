@@ -28,6 +28,36 @@ schedule:
         - Farewell dinner & drinks.
 
 
+details: 
+    intro: "We'll be journeying around Western Iceland, possibly the most diverse part of the island. Starting in Reykjavik, we'll then head to Snæfellsnes to explore the peninsula known to the locals as 'Mini Iceland'."
+    gear_intro: "The landscapes are amazing, but the weather unpredictable. Here are just some of the things you’ll need:"
+    map: iceland/staticmap_west_iceland.jpg
+    gear: 
+      - Camera and lenses (plus things like batteries and memory cards)
+      - Tripod
+      - ND filters for daytime shooting
+      - Appropriate clothing
+      - Laptop for post-processing (Lightroom & Photoshop)
+      - Smartphone (optional, but recommended)
+      - Head torch
+      - Passport!
+    included: 
+      - Accommodation for the whole trip * <span>based on two people sharing, contact us for single occupancy options.</span>
+      - Van hire
+      - All fuel costs
+      - Van drivers (x3)
+      - Breakfast, lunch and dinner each day
+      - Post-processing masterclass for all levels
+      - Photowalk around Reykjavik
+      - Entrance fees (as needed)
+    notincluded: 
+      - "Air fare to and from *Keflavik* (Iceland's main airport)"
+      - Alcoholic drinks
+      - Visa costs (if applicable)
+      - Travel & medical insurance
+
+ 
+
 smartphones:
   intro: | 
     While you’ll likely want to capture Iceland’s incredible landscapes on the highest-quality camera possible, that doesn’t mean you should ignore the one in your pocket.
@@ -40,7 +70,8 @@ smartphones:
     - iceland/iphone/iphone-square-bw.jpg
     - iceland/iphone/iphone-square-3.jpg
     - iceland/iphone/iphone-square-2.jpg
-    
+
+
 
 faq: 
   - question: How is payment handled?

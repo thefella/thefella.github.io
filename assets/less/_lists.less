@@ -90,20 +90,34 @@ ol.text-list,
 
 
 ul.good,
-ul.not {
+ul.not,
+.yes-list ul,
+.no-list ul {
 	list-style: none;
 }
 
 ul.good li::before,
-ul.not li::before {
+ul.not li::before,
+.yes-list ul > li::before,
+.no-list ul > li::before {
 	font-family: "FontAwesome";
 	margin: 0 0.5em 0 -1.5em;
 }
 
-ul.good li::before {
+ul.good li::before,
+.yes-list ul > li::before {
 	content: "\f00c";
 }
 
-ul.not li::before {
+ul.not li::before,
+.no-list ul > li::before {
 	content: "\f00d";
+}
+
+
+.details-group li span {
+	display: block;
+	font-size: 0.75em;
+	font-style: italic;
+	line-height: 1;
 }

@@ -1,0 +1,70 @@
+//! Nav
+#secondary-nav {
+	background-color: rgba(0,0,0,0.8);
+	font-size: 0.9em;
+
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 11;
+
+	-webkit-transition: all .5s ease;
+	   -moz-transition: all .5s ease;
+	   		transition: all .5s ease;
+}
+
+	#secondary-nav.scrolled {
+		background-color: rgba(0,0,0,0.8);
+	}
+
+
+#secondary-nav ul {
+	width: 90%;
+}
+
+/*
+#nav .smartphone,
+#nav .intro,
+#nav .details,
+#nav .faq {
+	display: none;
+}*/
+
+#secondary-nav .call-to-action {
+	background-color: transparent;
+	color: @highlightcolor;
+	font-size: 1em;
+	padding: 1em 0.25em;
+	text-transform: capitalize;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+}
+
+#secondary-nav .call-to-action:hover {
+	color: @highlightcolor_hover;
+}
+
+@media screen and (min-width: 30em) {
+	#secondary-nav {
+		font-size: 1.1em;
+		position: fixed;
+	}
+}
+
+/*
+@media screen and (min-width: 35em) {
+	#nav .smartphone {
+		display: table-cell;
+	}
+}
+
+@media screen and (min-width: 45em) {
+	#nav .faq {
+		display: table-cell;
+	}
+}
+
+@media screen and (min-width: 50em) {
+	#nav .intro {
+		display: table-cell;
+	}
+}*/

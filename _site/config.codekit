@@ -110,6 +110,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/workshop_details.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/workshop_details.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/default.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -240,7 +249,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/faroes\/saksun-x3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/anastadastapi.jpg": {
 		"fileType": 16384,
@@ -251,7 +260,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/anastadastapi.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/blue_church-s.jpg": {
 		"fileType": 16384,
@@ -262,7 +271,18 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/blue_church-s.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/iceland\/centre_earth-xl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180473,
+		"inputAbbreviatedPath": "\/assets\/img\/iceland\/centre_earth-xl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/iceland\/centre_earth-xl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/endless-blue-l.jpg": {
 		"fileType": 16384,
@@ -273,7 +293,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/endless-blue-l.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/fjord_focus-l.jpg": {
 		"fileType": 16384,
@@ -284,7 +304,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/fjord_focus-l.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/greg_aurora.jpg": {
 		"fileType": 16384,
@@ -295,7 +315,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/greg_aurora.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/greg_iceberg.jpg": {
 		"fileType": 16384,
@@ -306,7 +326,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/greg_iceberg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/iphone\/iphone-square-1.jpg": {
 		"fileType": 16384,
@@ -317,7 +337,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/iphone\/iphone-square-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/iphone\/iphone-square-2.jpg": {
 		"fileType": 16384,
@@ -328,7 +348,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/iphone\/iphone-square-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/iphone\/iphone-square-3.jpg": {
 		"fileType": 16384,
@@ -339,7 +359,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/iphone\/iphone-square-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/iphone\/iphone-square-bw.jpg": {
 		"fileType": 16384,
@@ -350,7 +370,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/iphone\/iphone-square-bw.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/Kirkjufellsfoss-X3.jpg": {
 		"fileType": 16384,
@@ -359,6 +379,17 @@
 		"initialSize": 292925,
 		"inputAbbreviatedPath": "\/assets\/img\/iceland\/Kirkjufellsfoss-X3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/Kirkjufellsfoss-X3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/img\/iceland\/staticmap_west_iceland.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76030,
+		"inputAbbreviatedPath": "\/assets\/img\/iceland\/staticmap_west_iceland.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/iceland\/staticmap_west_iceland.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -372,7 +403,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/sun_voyager-s.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/iceland\/thousand_birds-s.jpg": {
 		"fileType": 16384,
@@ -383,7 +414,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/iceland\/thousand_birds-s.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/conor.jpg": {
 		"fileType": 16384,
@@ -394,7 +425,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/conor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/conor2.jpg": {
 		"fileType": 16384,
@@ -405,7 +436,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/conor2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/dan.jpg": {
 		"fileType": 16384,
@@ -416,7 +447,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/dan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/dan2.jpg": {
 		"fileType": 16384,
@@ -427,7 +458,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/dan2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/greg.jpg": {
 		"fileType": 16384,
@@ -438,7 +469,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/greg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/people\/greg2.jpg": {
 		"fileType": 16384,
@@ -449,7 +480,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/people\/greg2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/js\/global.js": {
 		"fileType": 64,
@@ -624,6 +655,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/assets\/less\/_nav.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/less\/_nav.less",
+		"outputAbbreviatedPath": "\/assets\/css\/_nav.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/assets\/less\/_normalize.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -723,6 +774,15 @@
 		"strictImports": 0,
 		"strictMath": 1,
 		"strictUnits": 1
+		},
+	"\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.md": {
 		"criticStyle": 0,
