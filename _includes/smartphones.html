@@ -1,12 +1,15 @@
 <section id="smartphones" class="group" markdown="1">
-	
-# Smartphones Welcome
+<header class="decorative">
+<h1>Smartphones Welcome</h1>
+</header>
 
+<article class="measured" markdown="1">
 {{ include.smartphones.intro }}
+</article>
 
 <figure class="gallery">
 {% for image in include.smartphones.images %}
-<a class="view" rel="gallery1" href="assets/img/{{ image }}" title="">
+<a class="view" rel="gallery1" href="/assets/img/{{ image }}" title="">
 	<img src="/assets/img/{{ image }}" alt="">
 </a>{% endfor %}
 

@@ -4,7 +4,8 @@
 		<p>Payment is secure and handled with care by <a href="{{ page.tito }}">Ti.to</a> (Please read <a href="{{ page.tandc }}">our Terms &amp; Conditions</a> before booking).</p>
 	</header>
 
-	<div id='tito-register-form'></div>
+	<!--<div id='tito-register-form'></div>-->
+	<tito-widget event="{{ page.tito | remove: 'https://ti.to/' }}"></tito-widget>
 	<noscript>
 		<p>Please go to <a href="{{ page.tito }}">{{ page.tito }}</a> to purchase your ticket.</p>
 	</noscript>

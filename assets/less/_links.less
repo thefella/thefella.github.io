@@ -1,0 +1,48 @@
+//! Links
+a {
+	color: @primarycolor;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	transition: all .2s ease;
+}
+
+a:hover,
+a:focus {
+	color: @primarycolor_hover;
+}
+
+.call-to-action {
+	background-color: @primarycolor;
+	border-radius: 2px;
+	color: rgba(255,255,255,0.8);
+	display: inline-block;
+	font-size: 1.2em;
+	font-weight: 500;
+	padding: 0.5em 1em;
+	text-decoration: none;
+	text-shadow: none;
+	text-transform: uppercase;
+	-webkit-transition: all .4s ease;
+	-moz-transition: all .4s ease;
+	transition: all .4s ease;
+}
+
+.call-to-action:hover,
+.call-to-action:focus {
+	background-color: @primarycolor_hover;
+	color: white;
+}
+
+.call-to-action span {
+	display: block;
+	font-size: 0.7em;
+	text-transform: normal;
+}
+
+.call-to-action .phrase {
+	font-size: 1em;
+}
+
+.call-to-action.additional {
+	text-align: center;
+}

@@ -1,0 +1,229 @@
+@-webkit-viewport { 
+width : device-width; }
+
+@-moz-viewport {
+width : device-width; }
+
+@-ms-viewport { 
+width : device-width; }
+
+@-o-viewport { 
+width : device-width; }
+
+@viewport { 
+width : device-width; }
+
+
+*, 
+*::before, 
+*::after {
+  -webkit-box-sizing: border-box; 
+     -moz-box-sizing: border-box; 
+	 	  box-sizing: border-box;
+}
+
+
+html {
+	background-color: white;
+	direction: ltr;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	unicode-bidi: embed;
+	-ms-text-size-adjust: 100%;
+	-webkit-overflow-scrolling: touch;
+	-webkit-text-size-adjust: 100%;
+	height: 100%;
+	position: relative;
+}
+
+
+html[lang="en"] {
+	-webkit-locale: en;
+}
+
+
+body {
+	color: #444;
+	font-family: @mainfont;
+	font-size: 95%;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.5;
+	margin: 0;
+	min-height: 100%;
+	overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+}
+
+	@media screen and (min-width: 40em) {
+		body {
+			font-size: 100%;
+		}
+	}
+	
+	@media screen and (min-width: 70em) {
+		body {
+			font-size: 110%;
+		}
+	}
+	
+	
+//! Typography
+h1,
+h2,
+h3 {
+	font-style: normal;
+	font-weight: 600;
+	line-height: 1.1;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0 0 1em 0;
+}
+
+	h1.lengthy {
+	    font-size: 1.6em;
+	    line-height: 1.2;
+	}
+
+h2 {
+	margin: 0.15em 0 0.25em 0;
+}
+
+h3 {
+	font-size: 1.4em;
+	margin: 1em 0 0.5em 0;
+}
+
+p {
+	margin: 0 0 1.5em 0;
+}
+
+b,
+strong {
+	font-style: normal;
+	font-weight: 600;
+}
+
+i,
+em {
+	font-style: italic;
+	font-weight: 400;
+}
+h2 i,
+h2 em {
+	font-weight: 600;
+}
+
+small {
+	font-size: 1em;
+}
+
+figure {
+	margin: 0;
+}
+
+blockquote {
+	font-style: italic;
+	font-weight: 400;
+	margin: 0;
+}
+
+.quote figcaption cite {
+	font-style: normal;
+	font-size: .4em;
+	font-weight: 500;
+	letter-spacing: .15em;
+	text-transform: uppercase;
+}
+
+.quote figcaption cite::before,
+.quote figcaption cite::after {
+	content: "\2014";
+	display: inline-block;
+	margin: 0 .3em;
+}
+
+.measured {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 44em;
+}
+
+.f {
+	font-style: italic;
+	font-weight: 400;
+	text-transform: lowercase !important;
+}
+
+.phrase {
+	white-space: nowrap;
+}
+
+
+.decorative::before {
+	background-color: #e5e5e5;
+	content: "";
+	display: block;
+	height: 10px;
+	margin: 0 auto 1.5rem;
+	max-width: 22rem;
+}
+
+	@media screen and (min-width: 40em) {
+		.decorative::before {
+			margin: -2rem auto 3rem;
+		}
+	}
+
+
+
+//! Header
+header {
+	margin-bottom: 3.5em;
+	text-align: center;
+}
+
+	@media screen and (min-width: 40em) {
+		header {
+			margin-bottom: 4em;
+		}
+	}
+
+header h1 {
+	margin-bottom: 0.25em;
+}
+
+header.lengthy h1 {
+	margin-bottom: 0.5em;
+}
+
+
+
+//! Quotes 
+.quote {
+	text-align: center;
+	background-position: 50% 50%;
+}
+
+	@media screen and (min-width: 40em) {
+		.quote {
+			font-size: 2.25em;
+		}
+	}
+
+.quote blockquote {
+	line-height: 1.1;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 21em;
+	text-shadow:
+		0px 0px 10px rgba(0,0,0,.3),
+		0px 1px 1px rgba(0,0,0,.3);
+}
+
+.quote figcaption {
+	line-height: 1;
+	margin-top: 0.25em;
+}

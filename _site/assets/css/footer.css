@@ -1,0 +1,9 @@
+#footer {
+  background-color: #282828;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.8em;
+  text-align: center;
+}
+#footer .legal {
+  margin-bottom: 0;
+}

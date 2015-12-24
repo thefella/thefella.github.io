@@ -1,6 +1,6 @@
 <section id="teachers" class="group teachers-group">
-	<header>
-		<h1 class="doobry">Who We Are</h1>
+	<header class="decorative">
+		<h1>Who We Are</h1>
 		<p>The people behind the cameras. The people behind the adventures.</p>
 	</header>
 
@@ -12,9 +12,9 @@
 			<p class="title">{{ teacher.bio }}</p>
 			<p class="social">
 				<a href="{{ teacher.site }}" class="url ss-icon ss-social-circle" title="Website for {{ teacher.name }}">Link</a>
-				<a href="{{ teacher.instagram }}" class="ss-icon ss-social-circle" title="Instagram">Instagram</a>
-				<a href="{{ teacher.flickr }}" class="ss-icon ss-social-circle" title="Flickr">Flickr</a>
-				<a href="{{ teacher.twitter }}" class="ss-icon ss-social-circle" title="Twitter">Twitter</a>
+				<a href="https://instagram.com/{{ teacher.instagram }}" class="ss-icon ss-social-circle" title="Instagram">Instagram</a>
+				<a href="https://www.flickr.com/photos/{{ teacher.flickr }}" class="ss-icon ss-social-circle" title="Flickr">Flickr</a>
+				<a href="https://twitter.com/{{ teacher.twitter }}" class="ss-icon ss-social-circle" title="Twitter">Twitter</a>
 			</p>
 		</li>
 		{% endfor %}
