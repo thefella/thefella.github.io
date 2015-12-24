@@ -1,0 +1,25 @@
+<div class="mailchimp-form mailchimp-{% if include.slim == true %}slim{% else if %}classic{% endif %}">
+	<!-- Begin MailChimp Signup Form -->
+	<link href="http://cdn-images.mailchimp.com/embedcode/{% if include.slim == true %}slim{% else if %}classic{% endif %}-081711.css" rel="stylesheet">
+	<div id="mc_embed_signup" style="margin:0 auto; max-width:600px;">
+		<form action="http://us9.list-manage.com/subscribe/post?u=927bff84c15d99b7107706fa6&amp;id=54785e661e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		    <div id="mc_embed_signup_scroll">
+				<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+				<div class="mc-field-group">
+					<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+					<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email address" required>
+				</div>
+				<div id="mce-responses" class="clear">
+					<div class="response" id="mce-error-response" style="display:none"></div>
+					<div class="response" id="mce-success-response" style="display:none"></div>
+				</div>
+		    	<div style="position: absolute; left: -5000px;"><input type="text" name="b_927bff84c15d99b7107706fa6_54785e661e" tabindex="-1" value=""></div>
+		    	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+		    </div>
+		    <input type="hidden" value="ALL" name="WORKSHOP" id="mce-WORKSHOP">
+			<input type="hidden" value="{% if page.mailchimpSite %}{{ page.mailchimpSite }}{% else if %}F8{% endif %}" name="SITE" id="mce-SITE">
+		</form>
+	</div>
+	<script src='http://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='WORKSHOP';ftypes[1]='text';fnames[2]='SITE';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+	<!--End mc_embed_signup-->
+</div>

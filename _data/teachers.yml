@@ -1,0 +1,23 @@
+- name: Greg Annandale
+  photo: greg
+  bio: Mountaineer, Divemaster, <span>Travel &amp; Expedition</span> Photographer
+  site: http://gregannandale.com
+  instagram: greg_a
+  flickr: greg-a
+  twitter: greg_a
+
+- name: Conor MacNeill
+  photo: conor
+  bio: Landscape &amp; Destination Photographer, Influencer, <span>Speaker</span>
+  site: https://thefella.com
+  instagram: thefella
+  flickr: thefella
+  twitter: thefella
+
+- name: Dan Rubin
+  photo: dan
+  bio: Instagram Beta Tester, Designer, <span>V&amp;A Workshop Teacher</span>
+  site: http://danrubin.is
+  instagram: danrubin
+  flickr: danrubin
+  twitter: danrubin

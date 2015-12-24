@@ -1,0 +1,31 @@
+# Site settings
+timezone: Europe/London
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://f8.pe" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
+# Site Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      pageClass: page
+      layout: "default"
+      typekit: "enq3yxk"
+      title: "f/8 Photography Expeditions"
+      description: "Experience stunning countries alongside experienced photographers. Then learn how to make your images look amazing. Join Greg Annandale, Conor MacNeill and Dan Rubin on their photography adventures around the world!"
+      socialTitle: "f/8 Photography Expeditions"
+      socialDesc: "Join Greg Annandale, Conor MacNeill and Dan Rubin for their photography workshops around the world!"
+      socialImage: "http://thefella.smugmug.com/Galleries/Portfolio/i-xGw6f8t/1/XL/Petra%20By%20Night-XL.jpg"
+      appTitle: "f/8 PE"
+      nav:
+        - Intro
+        - Teachers
+        - Workshop
+        - Details
+        - Questions?      

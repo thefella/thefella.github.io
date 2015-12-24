@@ -1,0 +1,27 @@
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - f/8 Photography Workshops</title>
+<link rel="author" href="https://plus.google.com/+ConorMacNeill">
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="handheldfriendly" content="true">
+<meta name="mobileoptimized" content="320">
+
+<!-- Styles -->
+{% if page.css %}<link rel="stylesheet" href="/assets/css/{{ page.css }}.css">{% endif %}
+{% if page.tito %}<link rel="stylesheet" href="{{ page.tito }}.css">{% endif %}
+
+<!-- Typekit -->
+<script src="https://use.typekit.net/{% if page.typekit %}{{ page.typekit }}{% else %}{{ site.typekit }}{% endif %}.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Mobile -->
+<meta name="apple-mobile-web-app-title" content="{% if page.appTitle %}{{ page.appTitle }}{% else %}{{ site.appTitle }}{% endif %}">
+<meta name="application-name" content="{% if page.appTitle %}{{ page.appTitle }}{% else %}{{ site.appTitle }}{% endif %}">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="favicon-msapplication-tileimage.png">
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+</head>

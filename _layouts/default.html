@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+{% include head.html %}
+<body id="top" class="{% if page.pageClass %}{{ page.pageClass }}{% else %}{{ site.pageClass }}{% endif %}">
+{% if page.soldout %}<b class="ribbon soldout">Sold Out</b>
+{% endif %}<div class="global-wrapper">
+	
+global menu
+
+<main role="main" id="main" class="main">
+{{ content }}
+</main>
+
+{% include footer.html %}
+
+</div><!-- /.global-wrapper -->
+</body>
+</html>
