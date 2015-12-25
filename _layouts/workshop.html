@@ -2,7 +2,7 @@
 layout: default
 ---
 {% if page.secondaryNav %}
-<nav role="navigation" id="secondary-nav" class="nav secondary-nav">
+<nav id="secondary-nav" class="nav secondary-nav">
 <ul role="menubar" id="secondary-menu" class="menu secondary-menu">
 	{% for nav_item in page.secondaryNav %}
     <li role="menuitem" class="{{ nav_item | slugify }}"><a href="#{{ nav_item | slugify }}">{{ nav_item }}</a></li>{% endfor %}	
@@ -16,7 +16,7 @@ layout: default
 	<header role="banner" class="vevent">
 		<h1 class="summary"><span><em class="f">f</em>/8 Photo Expeditions:</span> {{ page.hero }}</h1>
 		<p class="tagline">{{ page.tagline }}</p>
-		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.end }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
+		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
 	</header>
 	{% if page.seller %}<p class="seller">{{ page.seller }}</p>{% endif %}
 	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out!{% else %}Reserve your place! &raquo;{% endif %}</a></p>
