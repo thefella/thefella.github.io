@@ -3,6 +3,8 @@ timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://f8.pe" # the base hostname & protocol for your site
 future: true
+gems:
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown

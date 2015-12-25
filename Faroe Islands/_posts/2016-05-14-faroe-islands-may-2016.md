@@ -1,4 +1,6 @@
 ---
+redirect_from: 	"/"
+
 # BASICS
 title: 			"Faroe Islands 2016"
 location: 		"The Faroe Islands"
