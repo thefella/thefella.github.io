@@ -19,7 +19,7 @@
 
 
 #secondary-nav ul {
-	width: 90%;
+	width: 98%;
 }
 
 /*
@@ -29,6 +29,18 @@
 #nav .faq {
 	display: none;
 }*/
+
+
+#secondary-nav .small-screen-hide {
+	display: none;
+	font-size: 1em;
+}
+
+	@media screen and (min-width: 30em) {
+		#secondary-nav .small-screen-hide {
+			display: inherit;
+		}
+	}
 
 #secondary-nav .call-to-action {
 	background-color: transparent;

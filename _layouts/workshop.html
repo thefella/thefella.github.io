@@ -6,7 +6,7 @@ layout: default
 <ul role="menubar" id="secondary-menu" class="menu secondary-menu">
 	{% for nav_item in page.secondaryNav %}
     <li role="menuitem" class="{{ nav_item | slugify }}"><a href="#{{ nav_item | slugify }}">{{ nav_item }}</a></li>{% endfor %}	
-	<li role="menuitem" class="booking"><a class="call-to-action phrase" href="#booking">Book now! &raquo;</a></li>
+	<li role="menuitem" class="booking"><a class="call-to-action phrase" href="#booking">Book <span class="small-screen-hide">now!</span> &raquo;</a></li>
 </ul>
 </nav>
 {% endif %}
