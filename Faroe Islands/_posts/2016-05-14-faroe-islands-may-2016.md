@@ -8,6 +8,7 @@ description: 	"Experience The Faroe Islands untouched landscapes alongside exper
 permalink: 		/faroe-islands-may-2016/
 endDate: 		2016-05-21
 heroImage: 		/assets/img/faroes/saksun-x3.jpg
+seller: 		"3 teachers, 7 days, 10 photographers."
 
 
 # AVAILABILITY
@@ -44,9 +45,24 @@ layout: 		workshop
 ---
 
 
+[//]: # Intro
+{% include intro.html intro=site.data.faroes.may-2016.intro %}
+
+
+[//]: # Quote
+{% include quote.html quote="Quote from Conor." cite="Conor MacNeill" image="/assets/img/faroes/conor_boat.jpg" wow="fadeInLeft" %}
+
+
 [//]: # Teachers
 {% include teachers.html teachers=site.data.teachers %}
 
+
+[//]: # Schedule
+{% include schedule.html title="A Faroese Photography Adventure" price="&pound;1000" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+
+
+[//]: # Details
+{% include workshop_details.html details=site.data.faroes.may-2016.details %}
 
 
 [//]: # Quote
@@ -55,7 +71,6 @@ layout: 		workshop
 
 [//]: # Smartphones 
 {% include smartphones.html smartphones=site.data.faroes.may-2016.smartphones %}
-
 
 
 [//]: # Quote

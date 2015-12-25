@@ -1,4 +1,59 @@
+intro: |
+  
 
+schedule: 
+    - name: Saturday
+      image: faroes/dan_harbour.jpg
+      summary: "We'll pick you up from the airport and make sure you're all set for the week ahead."
+      items:
+        - __Arrival__ &mdash; transfer to our accommodation overlooking the capital of *Tórshavn*.
+        - __Introduction__ &mdash; Walk through the week&rsquo;s plan, check our gear and research the weather conditions.
+        - Answer any questions you have and run through some photography tips and techniques.
+        - Dinner &amp; drinks!
+    
+    - name: Sunday&mdash;Friday
+      image: faroes/dan_waterfall_rock.jpg
+      summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
+      items:
+        - Sunrise shoot (weather permitting).
+        - Visits to some of our favourite photography locations on the Faroe Islands.
+        - See lakes, waterfalls, mountains, cliffs and more!
+        
+    - name: Saturday
+      image: faroes/conor_red_house.jpg
+      summary: "A jam-packed day in *Tórshavn* to review and process the images you've taken on these magnificent islands!"
+      items:
+        - Post-processing Master-class.
+        - Smartphone editing
+        - Photowalk around the city (smartphones ready!).
+        - Farewell dinner & drinks.
+
+
+details: 
+    intro: "We'll be journeying around some of the most remote islands in the North Atlantic. Based in *Tórshavn*, we'll hit some of our favourite photography locations around the archipelago."
+    gear_intro: "The landscapes are amazing, but the weather unpredictable. Here are just some of the things you’ll need:"
+    map: faroes/staticmap_faroe_islands.jpg
+    gear: 
+      - Camera and lenses (plus things like batteries and memory cards)
+      - Tripod
+      - ND filters for daytime shooting
+      - Appropriate clothing
+      - Laptop for post-processing (Lightroom & Photoshop)
+      - Smartphone (optional, but recommended)
+      - Head torch
+      - Passport!
+    included: 
+      - Accommodation for the whole trip
+      - Car hire
+      - All fuel costs
+      - Breakfast, lunch and dinner each day
+      - Post-processing masterclass for all levels
+      - Photowalk around Tórshavn
+    notincluded: 
+      - "Air fare to and from *Vágar* (The Faroe Island's main airport)"
+      - Alcoholic drinks
+      - Visa costs (if applicable)
+      - Travel & medical insurance
 
 
 
@@ -44,3 +99,22 @@ gallery:
     thumb: /assets/img/faroes/greg_drone_lake_small.jpg
   - large: /assets/img/faroes/conor_saksun_big.jpg
     thumb: /assets/img/faroes/conor_saksun_small.jpg
+
+
+
+intro: 
+    title: "Discover one of Europe's last remaning hidden gems! This tiny archipelago is full of stunning waterfalls and rugged cliffs just waiting to be photographed."
+    teaser: "/assets/img/faroes/conor_gasladder.jpg"
+    body: >
+        Join [three experienced photographers & travellers](#teachers) as we take you on a journey through the Faroe Islands. You’ll experience nature at it's fullets, from mountains and waterfalls to 'floating' lakes and unbelieveable cliffs. With short drives to our favourite locations, and constant personal instruction from each one of us, you'll have a learning experience like no other.
+        
+        
+        As well as learning how to shoot landscapes and the night sky with your DSLR (or film cameras / smartphone), our post-processing workshop will teach you everything you need to edit your images like a pro!
+        
+        
+        ### Catering to all levels
+        
+        Whether you're a complete beginner or seasoned pro, there’s something to be gained from this fantastic trip around the Faroe Islands.
+        
+        
+        We can help you improve a number of aspects of your photography, whether you shoot digital, film or simply on your smartphone.

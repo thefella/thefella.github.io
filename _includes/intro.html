@@ -1,0 +1,14 @@
+<section id="intro" class="group measured intro-group" markdown="1">
+<h1 class="lengthy decorative">{{ include.intro.title }}</h1>
+
+{% if include.intro.teaser %}
+<img class="teaser" src="{{ include.intro.teaser }}">
+{% endif %}
+
+<article markdown="1">
+	
+{{ include.intro.body }}
+
+</article>
+
+</section>

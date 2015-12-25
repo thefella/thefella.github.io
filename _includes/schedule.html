@@ -1,3 +1,9 @@
+<section id="schedule" class="group photo-group schedule-group listful" style="background-image:url('{{ include.image }}');" markdown="1">
+<header>
+<h1>{{ include.title }}</h1>
+<p class="price">{{ include.price }}</p>
+</header>
+
 {% for day in include.schedule %}
 <article markdown="1">
 
@@ -14,3 +20,6 @@
 
 </article>
 {% endfor %}
+
+<p class="book"><a class="call-to-action" href="#booking">What are you waiting for? <span class="phrase">Book now! &raquo;</span></a></p>
+</section>

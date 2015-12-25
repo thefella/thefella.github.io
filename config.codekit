@@ -105,6 +105,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/faroes\/conor_boat.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130695,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/conor_boat.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/conor_boat.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/faroes\/conor_gasladder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20630,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/conor_gasladder.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/conor_gasladder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/faroes\/conor_lake_hike.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123781,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/conor_lake_hike.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/conor_lake_hike.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/faroes\/conor_red_house.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13283,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/conor_red_house.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/conor_red_house.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/faroes\/conor_saksun_big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -204,6 +248,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/faroes\/dan_harbour.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33152,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/dan_harbour.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/dan_harbour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/faroes\/dan_huts.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -211,6 +266,17 @@
 		"initialSize": 172396,
 		"inputAbbreviatedPath": "\/assets\/img\/faroes\/dan_huts.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/faroes\/dan_huts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/faroes\/dan_waterfall_rock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33837,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/dan_waterfall_rock.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/dan_waterfall_rock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -302,6 +368,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/assets\/img\/faroes\/staticmap_faroe_islands.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39948,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/staticmap_faroe_islands.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/staticmap_faroe_islands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/assets\/img\/iceland\/anastadastapi.jpg": {
 		"fileType": 16384,
