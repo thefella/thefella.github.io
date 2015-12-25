@@ -4,7 +4,7 @@ layout: default
 {% if page.secondaryNav %}
 <nav role="navigation" id="secondary-nav" class="nav secondary-nav">
 <ul role="menubar" id="secondary-menu" class="menu secondary-menu">
-	{% for nav_item in page.nav %}
+	{% for nav_item in page.secondaryNav %}
     <li role="menuitem" class="{{ nav_item | slugify }}"><a href="#{{ nav_item | slugify }}">{{ nav_item }}</a></li>{% endfor %}	
 	<li role="menuitem" class="booking"><a class="call-to-action phrase" href="#booking">Book now! &raquo;</a></li>
 </ul>
@@ -18,7 +18,7 @@ layout: default
 		<p class="tagline">{{ page.tagline }}</p>
 		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.end }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
 	</header>
-	<p class="cta"><a class="call-to-action phrase" href="#booking">Reserve your place! &raquo;</a></p>
+	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out!{% else %}Reserve your place! &raquo;{% endif %}</a></p>
 </section>
 
 

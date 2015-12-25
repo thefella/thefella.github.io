@@ -1,0 +1,46 @@
+
+
+
+
+smartphones:
+  intro: | 
+    While you’ll likely want to capture the stunning landscapes of The Faroe Islands on the best camera possible, that doesn’t mean you should ignore the one in your pocket.
+    
+    Bring your smartphone and prepare to learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
+    
+    With over *1 million* followers on Instagram between them, [Greg](https://www.instagram.com/greg_a/), [Conor](https://www.instagram.com/thefella/) &amp; [Dan](https://www.instagram.com/danrubin/) are the men to show you how.
+  images:
+    - faroes/iphone/conor_lake.jpg
+    - faroes/iphone/greg_kallur.jpg
+    - faroes/iphone/conor_coast.jpg
+    - faroes/iphone/dan_cliff.jpg
+    
+    
+faq: 
+  - question: How is payment handled?
+    answer: We use a third-party service called [Ti.to](https://ti.to). This not only allows us secure online transactions, but we can accept numerous forms of payment from credit card to PayPal — whatever suits you best!
+  - question: What about flights?
+    answer: Flights to the Faroe Islands are not included, so shop around for the best deal (as always, the earlier you book, the better). You can fly with [Atlantic Airways](https://www.atlantic.fo) from Edinbugh, Copenhagen, Barcelona and Reykjavik, amongst others. [Let us know](mailto:contact@f8.pe) if you have any questions whatsoever!
+  - question: What type of accommodation should I expect?
+    answer: "We'll be staying at [Hotel Føroyar](http://www.hotelforoyar.com), a beautiful four star hotel overlooking the Faroese capital of Tórshavn."
+  - question: What if the weather is bad?
+    answer: The weather in the Faroe Islands can be wet and foggy. This can actually make for some fantastically moody photography! If it gets too bad, we will have a *Plan B* in the case of extremely severe (aka unsafe) weather, involving food and post-processing.
+  - question: What skill levels do you teach?
+    answer: We teach everyone from beginners to advanced photographers. Even if you don’t have a DSLR, we can help you get the best out of whatever camera you bring along ([get in touch](mailto:contact@f8.pe) if you have any gear-specific questions prior to booking).
+  - question: What if I need more information?
+    answer: Feel free to [contact us](mailto:contact@f8.pe) with any queries that you may have. Once you are registered, we will send out an information pack prior to the workshop with more details. You can also tweet Conor ([@thefella](https://twitter.com/thefella)), Greg ([@greg_a](https://twitter.com/greg_a)) or Dan ([@danrubin](https://twitter.com/danrubin)).
+  - question: What about cancellations?
+    answer: "In general, we do not offer refunds, however: Depending on when you cancel and your reasons, we will do our best to refund all or some of your registration fee. You are also more than welcome to transfer your place to someone else if you can’t make it. Please check our complete [Terms & Conditions](/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf) for more details."
+    
+    
+gallery: 
+  - large: /assets/img/faroes/dan_cliffs_big.jpg
+    thumb: /assets/img/faroes/dan_cliffs_small.jpg
+  - large: /assets/img/faroes/dan_boat_ride_big.jpg
+    thumb: /assets/img/faroes/dan_boat_ride_small.jpg
+  - large: /assets/img/faroes/conor_saksun_waterfall_big.jpg
+    thumb: /assets/img/faroes/conor_saksun_waterfall_small.jpg
+  - large: /assets/img/faroes/greg_drone_lake_big.jpg
+    thumb: /assets/img/faroes/greg_drone_lake_small.jpg
+  - large: /assets/img/faroes/conor_saksun_big.jpg
+    thumb: /assets/img/faroes/conor_saksun_small.jpg
