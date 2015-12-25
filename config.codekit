@@ -775,15 +775,6 @@
 		"strictMath": 1,
 		"strictUnits": 1
 		},
-	"\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,

@@ -1,7 +1,19 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+#BASICS
+title: 			"f/8 Photography Workshops"
+description: 	"Photography workshop and expeditions from Greg Annandale, Conor MacNeill and Dan Rubin"
+
+
+#LAYOUT
+pageClass: 		"homepage"
+layout: 		default
+---
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
