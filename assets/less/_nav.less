@@ -22,14 +22,6 @@
 	width: 98%;
 }
 
-/*
-#nav .smartphone,
-#nav .intro,
-#nav .details,
-#nav .faq {
-	display: none;
-}*/
-
 
 #secondary-nav .small-screen-hide {
 	display: none;
@@ -62,21 +54,40 @@
 	}
 }
 
-/*
-@media screen and (min-width: 35em) {
-	#nav .smartphone {
-		display: table-cell;
-	}
+#secondary-nav .intro {
+	display: none;
 }
 
-@media screen and (min-width: 45em) {
-	#nav .faq {
-		display: table-cell;
+	@media screen and (min-width: 44em) {
+		#secondary-nav .intro {
+			display: table-cell;
+		}
 	}
-}
 
-@media screen and (min-width: 50em) {
-	#nav .intro {
-		display: table-cell;
+
+
+//! Iceland
+.iceland-sept-2014 #secondary-nav .smartphones,
+.iceland-sept-2014 #secondary-nav .intro,
+.iceland-sept-2014 #secondary-nav .details,
+.iceland-sept-2014 #secondary-nav .questions {
+	display: none;
+} 
+
+	@media screen and (min-width: 35em) {
+		.iceland-sept-2014 #secondary-nav .smartphones {
+			display: table-cell;
+		}
 	}
-}*/
+
+	@media screen and (min-width: 45em) {
+		.iceland-sept-2014 #secondary-nav .questions {
+			display: table-cell;
+		}
+	}
+	
+	@media screen and (min-width: 50em) {
+		.iceland-sept-2014 #secondary-nav .intro {
+			display: table-cell;
+		}
+	}

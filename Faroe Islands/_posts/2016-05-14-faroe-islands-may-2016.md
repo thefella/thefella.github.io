@@ -33,6 +33,7 @@ mailchimpSite: 		FAROES16
 
 # NAVIGATION
 secondaryNav:
+  - Intro
   - Teachers
   - Schedule
   - Details
