@@ -12,6 +12,10 @@ endDate: 		2016-05-21
 heroImage: 		/assets/img/faroes/saksun-x3.jpg
 seller: 		"3 teachers, 7 days, 10 photographers."
 
+#SPONSOR
+sponsor: 		Olympus
+sponsorImage: 	/assets/img/sponsors/olympus.png
+
 
 # AVAILABILITY
 published: 		true

@@ -908,6 +908,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/img\/sponsors\/olympus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12153,
+		"inputAbbreviatedPath": "\/assets\/img\/sponsors\/olympus.png",
+		"outputAbbreviatedPath": "\/assets\/img\/sponsors\/olympus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/global.js": {
 		"fileType": 64,
 		"ignore": 0,

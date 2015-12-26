@@ -18,6 +18,13 @@ layout: default
 		<p class="tagline">{{ page.tagline }}</p>
 		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
 	</header>
+
+	{% if page.sponsor %}
+	<div class="sponsored">
+		<p>Sponsored by {{ page.sponsor }}</p>
+		{% if page.sponsorImage %}<img src="{{ page.sponsorImage }}" alt="Logo: {{ page.sponsor }}">{% endif %}
+	</div>{% endif %}	
+	
 	{% if page.seller %}<p class="seller">{{ page.seller }}</p>{% endif %}
 	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out!{% else %}Reserve your place! &raquo;{% endif %}</a></p>
 </section>
