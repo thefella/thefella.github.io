@@ -52,7 +52,6 @@ body {
 	margin: 0;
 	min-height: 100%;
 	overflow-x: hidden;
-	width: 100%;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -133,11 +132,17 @@ blockquote {
 
 .quote figcaption cite {
 	font-style: normal;
-	font-size: .4em;
+	font-size: 0.6em;
 	font-weight: 500;
 	letter-spacing: .15em;
 	text-transform: uppercase;
 }
+
+	@media screen and (min-width: 40em) {
+		.quote figcaption cite {
+			font-size: 0.4em;
+		}
+	}
 
 .quote figcaption cite::before,
 .quote figcaption cite::after {
