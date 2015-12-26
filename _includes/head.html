@@ -44,4 +44,24 @@
 <meta name="msapplication-TileImage" content="/assets/img/mobile/mstile-144x144.png">
 <meta name="msapplication-config" content="/assets/img/mobile/browserconfig.xml">
 <meta name="theme-color" content="#000000">
+{% if page.social_image %}
+<!-- Social - Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@thefella">
+<meta name="twitter:creator" content="@thefella">
+<meta name="twitter:title" content="{{ page.hero }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops }}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:image" content="/assets/img/{{ page.social_image }}">
+
+<!-- Social - Open Graph / Facebook -->
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="f/8 Workshops">
+<meta property="article:author" content="https://facebook.com/thefella">
+<meta property="article:author" content="https://facebook.com/greg.annandale">
+<meta property="article:author" content="https://www.facebook.com/daniel.stephen.rubin">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.hero }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:image" content="{{ page.social_image }}">
+{% endif %}
 </head>

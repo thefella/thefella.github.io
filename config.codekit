@@ -512,6 +512,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/img\/iceland\/social_image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84431,
+		"inputAbbreviatedPath": "\/assets\/img\/iceland\/social_image.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/iceland\/social_image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/iceland\/staticmap_west_iceland.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
