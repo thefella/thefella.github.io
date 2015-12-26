@@ -1253,7 +1253,7 @@
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/Faroe Islands\/_posts\/2016-05-14-faroe-islands-may-2016.html",
