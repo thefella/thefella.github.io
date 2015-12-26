@@ -14,9 +14,10 @@ layout: default
 
 <section id="workshop-hero" class="group photo-group hero hero-{{ page.hero | slugify }}" style="background-image:url('{{ page.heroImage }}');">
 	<header role="banner" class="vevent">
-		<h1 class="summary"><span class="host"><em class="f">f</em>/8 Photo Expeditions:</span> <span class="location">{{ page.hero }}</span></h1>
+		<h1 class="summary"><span class="host"><em class="f">f</em>/8 Photo Expeditions:</span> {{ page.hero }}</h1>
 		<p class="tagline">{{ page.tagline }}</p>
 		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
+		<p class="location">{{ page.location }}</p>
 	</header>
 
 	{% if page.sponsor %}
