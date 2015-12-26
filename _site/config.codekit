@@ -116,6 +116,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/faroes\/conor_coast_blur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51895,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/conor_coast_blur.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/conor_coast_blur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/faroes\/conor_gasladder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

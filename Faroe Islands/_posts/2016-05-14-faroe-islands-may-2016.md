@@ -73,8 +73,14 @@ layout: 		workshop
 {% include workshop_details.html details=site.data.faroes.may-2016.details %}
 
 
+[//]: # Video
+{% include video_embed.html title="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
+
+
+{% comment %}
 [//]: # Dan Quote
 {% include quote.html quote="Dan Rubin, Dan Rubin, Dan Rubin, Dan Rubin. Dan Rubin." cite="Dan Rubin" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
+{% endcomment %}
 
 
 [//]: # Smartphones 
