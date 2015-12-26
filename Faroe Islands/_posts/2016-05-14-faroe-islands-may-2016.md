@@ -2,7 +2,7 @@
 redirect_from: 	"/"
 
 # BASICS
-title: 			"Faroe Islands 2016"
+title: 			"Faroe Islands May 2016"
 location: 		"The Faroe Islands"
 hero: 			"Faroe Islands"
 tagline: 		'Landscape photography &amp; <span class="phrase">post-processing workshop</span>'
