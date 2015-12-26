@@ -66,7 +66,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Photography Adventure" price="&pound;1000 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+{% include schedule.html title="Faroe Photography Adventure" price="&pound;1500 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
 
 
 [//]: # Details
@@ -74,7 +74,7 @@ layout: 		workshop
 
 
 [//]: # Video
-{% include video_embed.html title="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
+{% include video_embed.html title="Experience The Faroe Islands" description="Visit an almost untouched archipelago!" videotitle="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
 
 
 {% comment %}
