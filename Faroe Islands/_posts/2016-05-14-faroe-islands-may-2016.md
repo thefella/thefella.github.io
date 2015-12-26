@@ -51,8 +51,8 @@ layout: 		workshop
 {% include intro.html intro=site.data.faroes.may-2016.intro %}
 
 
-[//]: # Quote
-{% include quote.html quote="Quote from Conor." cite="Conor MacNeill" image="/assets/img/faroes/conor_boat.jpg" wow="fadeInLeft" %}
+[//]: # Conor Quote
+{% include quote.html quote="The Faroe Islands are so close, yet they feel like a completely different world!" cite="Conor MacNeill" image="/assets/img/faroes/conor_boat.jpg" wow="fadeInLeft" %}
 
 
 [//]: # Teachers
@@ -67,15 +67,15 @@ layout: 		workshop
 {% include workshop_details.html details=site.data.faroes.may-2016.details %}
 
 
-[//]: # Quote
-{% include quote.html quote="Quote from dan." cite="Dan Rubin" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
+[//]: # Dan Quote
+{% include quote.html quote="Dan Rubin, Dan Rubin, Dan Rubin, Dan Rubin. Dan Rubin." cite="Dan Rubin" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
 
 
 [//]: # Smartphones 
 {% include smartphones.html smartphones=site.data.faroes.may-2016.smartphones %}
 
 
-[//]: # Quote
+[//]: # Greg Quote
 {% include quote.html quote="The Faroese are the most evil people in the world." cite="Greg Annandale" image="/assets/img/faroes/greg_drone_still.jpg" wow="fadeInLeft" %}
 
 
