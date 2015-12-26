@@ -11,6 +11,8 @@ permalink: 		/faroe-islands-may-2016/
 endDate: 		2016-05-21
 heroImage: 		/assets/img/faroes/saksun-x3.jpg
 seller: 		"3 teachers, 7 days, 10 photographers."
+social_image: 	/assets/img/faroes/social_image.jpg
+
 
 #SPONSOR
 sponsor: 		Olympus

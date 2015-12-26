@@ -369,6 +369,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/img\/faroes\/social_image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111024,
+		"inputAbbreviatedPath": "\/assets\/img\/faroes\/social_image.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/faroes\/social_image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/faroes\/staticmap_faroe_islands.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
