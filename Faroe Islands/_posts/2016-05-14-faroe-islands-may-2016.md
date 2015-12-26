@@ -60,7 +60,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="A Faroese Photography Adventure" price="&pound;1000" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+{% include schedule.html title="Faroe Photography Adventure" price="&pound;1000 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
 
 
 [//]: # Details

@@ -2,6 +2,7 @@
 <header>
 <h1>{{ include.title }}</h1>
 <p class="price">{{ include.price }}</p>
+{% if include.bonus %}<p class="bonus" markdown="1">{{ include.bonus }}</p>{% endif %}
 </header>
 
 {% for day in include.schedule %}
