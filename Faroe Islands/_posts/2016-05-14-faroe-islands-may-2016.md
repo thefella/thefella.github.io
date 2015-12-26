@@ -88,7 +88,7 @@ layout: 		workshop
 
 
 [//]: # Greg Quote
-{% include quote.html quote="The Faroese are the most evil people in the world." cite="Greg Annandale" image="/assets/img/faroes/greg_drone_still.jpg" wow="fadeInLeft" %}
+{% include quote.html quote="Driving no more than an hour can get you to almost any corner of the archipeleco; leaving more time to shoot!" cite="Greg Annandale" image="/assets/img/faroes/greg_drone_still.jpg" wow="fadeInLeft" %}
 
 
 [//]: # FAQ
