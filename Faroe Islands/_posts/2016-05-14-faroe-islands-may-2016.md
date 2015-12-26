@@ -74,7 +74,7 @@ layout: 		workshop
 
 
 [//]: # Video
-{% include video_embed.html title="Experience The Faroe Islands" description="Visit an almost untouched archipelago!" videotitle="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
+{% include video_embed.html title="Experience The Faroe Islands" description="Come and visit an almost untouched archipelago!" videotitle="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
 
 
 {% comment %}
