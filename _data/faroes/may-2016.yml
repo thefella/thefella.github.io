@@ -89,16 +89,16 @@ faq:
     
     
 gallery: 
-  - large: /assets/img/faroes/dan_cliffs_big.jpg
-    thumb: /assets/img/faroes/dan_cliffs_small.jpg
-  - large: /assets/img/faroes/dan_boat_ride_big.jpg
-    thumb: /assets/img/faroes/dan_boat_ride_small.jpg
-  - large: /assets/img/faroes/conor_saksun_waterfall_big.jpg
-    thumb: /assets/img/faroes/conor_saksun_waterfall_small.jpg
-  - large: /assets/img/faroes/greg_drone_lake_big.jpg
-    thumb: /assets/img/faroes/greg_drone_lake_small.jpg
-  - large: /assets/img/faroes/conor_saksun_big.jpg
-    thumb: /assets/img/faroes/conor_saksun_small.jpg
+  - large: /assets/img/faroes/gallery/dan_cliffs_big.jpg
+    thumb: /assets/img/faroes/gallery/dan_cliffs_small.jpg
+  - large: /assets/img/faroes/gallery/dan_boat_ride_big.jpg
+    thumb: /assets/img/faroes/gallery/dan_boat_ride_small.jpg
+  - large: /assets/img/faroes/gallery/conor_saksun_waterfall_big.jpg
+    thumb: /assets/img/faroes/gallery/conor_saksun_waterfall_small.jpg
+  - large: /assets/img/faroes/gallery/greg_drone_lake_big.jpg
+    thumb: /assets/img/faroes/gallery/greg_drone_lake_small.jpg
+  - large: /assets/img/faroes/gallery/conor_saksun_big.jpg
+    thumb: /assets/img/faroes/gallery/conor_saksun_small.jpg
 
 
 

@@ -93,16 +93,16 @@ faq:
     
     
 gallery: 
-  - large: http://thefella.smugmug.com/Galleries/All/i-z2CmhLt/0/XL/The%20Horse%20Shouter-XL.jpg
-    thumb: http://thefella.smugmug.com/Galleries/All/i-z2CmhLt/0/Th/The%20Horse%20Shouter-Th.jpg
-  - large: http://thefella.smugmug.com/Galleries/All/i-Jc7HJPf/1/XL/The%20Lost%20Plane-XL.jpg
-    thumb: http://thefella.smugmug.com/Galleries/All/i-Jc7HJPf/1/Th/The%20Lost%20Plane-Th.jpg
-  - large: https://thefella.smugmug.com/Galleries/Portfolio/i-Gxw8jJC/0/XL/Under%20The%20Green%20of%20The%20Night%2C%20The%20Horses%20Did%20Roam%203-XL.jpg
-    thumb: https://thefella.smugmug.com/Galleries/Portfolio/i-Gxw8jJC/0/Th/Under%20The%20Green%20of%20The%20Night%2C%20The%20Horses%20Did%20Roam%203-Th.jpg
-  - large: http://thefella.smugmug.com/Galleries/All/i-kPxVCQD/0/XL/Midnight%20Coast-XL.jpg
-    thumb: http://thefella.smugmug.com/Galleries/All/i-kPxVCQD/0/Th/Midnight%20Coast-Th.jpg
-  - large: https://thefella.smugmug.com/Galleries/All/i-dvFvtCs/0/XL/The%20Frozen%20Teeth%20of%20Godafoss-XL.jpg
-    thumb: https://thefella.smugmug.com/Galleries/All/i-dvFvtCs/0/Th/The%20Frozen%20Teeth%20of%20Godafoss-Th.jpg
+  - large: /assets/img/iceland/gallery/the_horse_shouter-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_horse_shouter-th.jpg
+  - large: /assets/img/iceland/gallery/the_lost_plane-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_lost_plane-th.jpg
+  - large: /assets/img/iceland/gallery/under_the_green-xl.jpg
+    thumb: /assets/img/iceland/gallery/under_the_green-th.jpg
+  - large: /assets/img/iceland/gallery/midnight_coast-xl.jpg
+    thumb: /assets/img/iceland/gallery/midnight_coast-th.jpg
+  - large: /assets/img/iceland/gallery/the_frozen_teeth-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_frozen_teeth-th.jpg
 
 
 

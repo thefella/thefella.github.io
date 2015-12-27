@@ -8,7 +8,7 @@ Running on Jekyll and hosted at http://f8workshops.com
 ```
 Install Jekyll
 gem install jekyll-redirect-from --source http://rubygems.org
-Run with jekyll serve --host=0.0.0.0 (allows you to connect via IP for mobile testing)
+Run with "jekyll serve --host=0.0.0.0" (allows you to connect via IP for mobile testing)
 ```
 
 ### Site Layout ###
