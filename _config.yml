@@ -1,7 +1,8 @@
 # Site settings
 timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://f8workshops.com" # the base hostname & protocol for your site
+url: "https://f8workshops.com" # the base hostname & protocol for your site
+enforce_ssl: f8workshops.com
 future: true
 gems:
   - jekyll-redirect-from
