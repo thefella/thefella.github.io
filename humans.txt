@@ -1,0 +1,58 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+Design: 		Conor MacNeill and Dan Rubin
+Development: 	Conor MacNeill
+Site: 			f8workshops.com / f8.pe
+Twitter: 		@thefella, @greg_a, @danrubin
+Instagram: 		@thefella, @greg_a, @danrubin
+Location: 		Worldwide
+
+
+/* THANKS */
+Dan Rubin: 			https://instagram.com/danrubin
+Gren Annandale:		https://instagram.com/greg_a
+Zoe Timmers: 		https://instagram.com/zobolondon
+
+
+/* SITE */
+Standards: 		HTML5, CSS3, PageSpeed, ARIA, WCAG
+
+
+/* COMPONENTS & SOFTWARE */
+Github: 		https://github.com 
+Typekit:	 	https://typekit.com 
+Jekyll: 		https://jekyllrb.com
+Modernizr: 		http://modernizr.com
+
+
+
+
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:

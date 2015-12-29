@@ -11,6 +11,7 @@ gems:
 markdown: kramdown
 kramdown:
   auto_ids: false
+exclude: [README.md, CNAME, "*.codekit", "*.psd", "assets/graphics/", "assets/less/"]
 
 # Site Defaults
 defaults:

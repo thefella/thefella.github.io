@@ -4,11 +4,13 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - f/8 Photography Workshops</title>
 <link rel="author" href="https://plus.google.com/+ConorMacNeill">
+<link rel="author" type="text/plain" href="/humans.txt"> 
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="320">
+<link rel="sitemap" href="/sitemap.xml">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
 <!-- Styles -->
@@ -22,6 +24,9 @@
 <!-- Typekit -->
 <script src="https://use.typekit.net/{% if page.typekit %}{{ page.typekit }}{% else %}{{ site.typekit }}{% endif %}.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- JS -->
+<script src="/assets/js/lib/modernizr.min.js"></script>
 
 <!-- Mobile -->
 <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/mobile/apple-touch-icon-57x57.png">

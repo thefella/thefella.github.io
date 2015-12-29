@@ -46,7 +46,15 @@ tags:
   - faroes
 categories:
   - upcoming
-  
+
+
+# SITEMAP
+sitemap:
+  lastmod: 		2016-12-29
+  priority: 	0.7
+  changefreq: 	'monthly'
+  exclude: 		'no'
+
 
 # LAYOUT
 pageClass: 		"workshop faroe-islands faroe-islands-may-2016"
