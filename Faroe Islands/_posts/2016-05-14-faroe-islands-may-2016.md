@@ -5,6 +5,7 @@ redirect_from: 	"/"
 title: 			"Faroe Islands May 2016"
 location: 		"The Faroe Islands"
 hero: 			"Faroe Islands"
+teachers: 		greg,conor,dan
 tagline: 		'Landscape photography &amp; <span class="phrase">post-processing workshop</span>'
 description: 	"Experience The Faroe Islands untouched landscapes alongside experienced photographers. Then learn how to make your images look amazing."
 permalink: 		/faroe-islands-may-2016/
@@ -71,7 +72,7 @@ layout: 		workshop
 
 
 [//]: # Teachers
-{% include teachers.html ids="greg,conor,dan" %}
+{% include teachers.html %}
 
 
 [//]: # Schedule

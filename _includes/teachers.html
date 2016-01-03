@@ -1,9 +1,10 @@
+{% if page.teachers %}
 <section id="teachers" class="group teachers-group">
 	<header class="decorative">
 		<h1>Who We Are</h1>
 		<p>The people behind the cameras. The people behind the adventures.</p>
 	</header>
-	{% assign ids = include.ids | split: ',' %}
+	{% assign ids = page.teachers | split: ',' %}
 	<ul class="display leaders {{ ids | size }}-section">
 		{% for teacher_id in ids %}
 		{% assign teacher = site.data.teachers.[teacher_id] %}
@@ -22,3 +23,4 @@
 		{% endfor %}
 	</ul>
 </section>
+{% endif %}
