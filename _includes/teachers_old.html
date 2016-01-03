@@ -1,0 +1,22 @@
+<section id="teachers" class="group teachers-group">
+	<header class="decorative">
+		<h1>Who We Are</h1>
+		<p>The people behind the cameras. The people behind the adventures.</p>
+	</header>
+
+	<ul class="display leaders">
+		{% for teacher in include.teachers %}
+		<li class="vcard wow fadeIn"{% if forloop.index >1 %} data-wow-delay="0.{{ forloop.index | minus:1 }}s"{% endif %}>
+			<img class="photo" src="/assets/img/people/{{ teacher.photo }}.jpg" alt="Photo of {{ teacher.name }}">
+			<h2 class="fn">{{ teacher.name }}</h2>
+			<p class="title">{{ teacher.bio }}</p>
+			<p class="social">
+				<a href="{{ teacher.site }}" class="url ss-icon ss-social-circle" title="Website for {{ teacher.name }}">Link</a>
+				<a href="https://instagram.com/{{ teacher.instagram }}" class="ss-icon ss-social-circle" title="Instagram">Instagram</a>
+				<a href="https://www.flickr.com/photos/{{ teacher.flickr }}" class="ss-icon ss-social-circle" title="Flickr">Flickr</a>
+				<a href="https://twitter.com/{{ teacher.twitter }}" class="ss-icon ss-social-circle" title="Twitter">Twitter</a>
+			</p>
+		</li>
+		{% endfor %}
+	</ul>
+</section>

@@ -71,7 +71,7 @@ layout: 		workshop
 
 
 [//]: # Teachers
-{% include teachers.html teachers=site.data.teachers %}
+{% include teachers.html ids="greg,conor,dan" %}
 
 
 [//]: # Schedule

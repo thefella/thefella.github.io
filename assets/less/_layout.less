@@ -164,3 +164,53 @@
 		margin-right: 0;
 	}
 }
+
+
+
+
+//! Workshops Group 
+.workshops-group {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 66em;
+}
+
+
+
+//! Flag object
+.flag .more {
+	text-align: right;
+}
+
+@media screen and (min-width: 50em) {
+	.flag {
+		display: table;
+		width: 100%;
+	}
+	
+	.flag-object,
+	.flag-body {
+		display: table-cell;
+		vertical-align: top;
+	}
+	
+	@flagpadding: 2.5%;
+	@flagobjectwidth: 62%;
+	.flag-object {
+		padding-right: @flagpadding;
+		width: @flagobjectwidth;
+	}
+	
+	.flag-body {
+		padding-left: @flagpadding;
+		width: (100% - @flagobjectwidth);
+	}
+	
+	.flag h3 {
+		margin-top: 0.25em;
+	}
+	
+	.flag .more {
+		text-align: left;
+	}
+}

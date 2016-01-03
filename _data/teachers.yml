@@ -1,4 +1,5 @@
-- name: Greg Annandale
+greg:
+  name: Greg Annandale
   photo: greg
   bio: Mountaineer, Divemaster, <span>Travel &amp; Expedition</span> Photographer
   site: http://gregannandale.com
@@ -6,7 +7,8 @@
   flickr: greg-a
   twitter: greg_a
 
-- name: Conor MacNeill
+conor:
+  name: Conor MacNeill
   photo: conor
   bio: Landscape &amp; Destination Photographer, Influencer, <span>Speaker</span>
   site: https://thefella.com
@@ -14,10 +16,20 @@
   flickr: thefella
   twitter: thefella
 
-- name: Dan Rubin
+dan:
+  name: Dan Rubin
   photo: dan
   bio: Instagram Beta Tester, Designer, <span>V&amp;A Workshop Teacher</span>
   site: http://danrubin.is
   instagram: danrubin
   flickr: danrubin
   twitter: danrubin
+  
+zoe:
+  name: Zoë Timmers
+  photo: zoe
+  bio: Producer, Photographer, <span>Social Media Influencer</span>
+  site: http://www.zoetimmers.com
+  instagram: zobolondon
+  linkedin: zoetimmers
+  twitter: zobolondon

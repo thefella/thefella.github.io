@@ -1,0 +1,24 @@
+<article class="flag">
+	<header class="flag-object">
+    	<a href="{{ post.url }}"><img src="{{ post.heroImage }}" alt=""></a>
+	</header>
+    <div class="flag-body">
+	    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	    <p>{{ post.description }}</p>
+	    <p class="dates">{{ post.date | date: '%B' }} <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="dtstart">{{ post.date | date: '%-d' }}</time>&#8211;<time datetime="{{ post.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ post.endDate | date: '%-d' }}</time>, {{ post.date | date: '%Y' }}</p>
+	    
+	    <p class="more"><a href="{{ post.url }}" class="call-to-action" title="Learn more about '{{ post.title }}'">
+		    {% if post.categories contains 'previous' %}
+		    	Find out more
+		    {% else %}
+		    
+		    	{% if post.soldout %}
+		    		Sold out
+		    	{% else %}
+					Sign up now!
+				{% endif %}
+		    
+		    {% endif %}
+		&raquo;</a></p>
+    </div>
+</article>

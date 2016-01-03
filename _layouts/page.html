@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<section id="{{ page.pageClass }}-hero" class="group photo-group hero hero-page hero-{{ page.pageClass}}" style="background-image:url('{{ page.heroImage }}');">
+	<header role="banner">
+		<h1>{{ page.hero }}</h1>
+		{% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
+	</header>
+</section>
+
+
+{{ content }}

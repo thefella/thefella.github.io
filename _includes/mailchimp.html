@@ -1,8 +1,10 @@
 <div id="mailchimp" class="mailchimp">
+	{% if page.layout == 'workshop' %}
 	<header>
 		<h1>Register your interest!</h1>
 		<p>This workshop is {% if page.soldout %}sold out{% else %}over{% endif %}, but we will be putting on others, so sign up to be kept in the loop!</p>
 	</header>
+	{% endif %}
 	
 	<div class="mailchimp-form mailchimp-{% if include.slim == true %}slim{% else if %}classic{% endif %}">
 		<!-- Begin MailChimp Signup Form -->

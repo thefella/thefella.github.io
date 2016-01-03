@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - f/8 Photography Workshops</title>
+<title>{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title }}{% endif %} - f/8 Photography Workshops</title>
 <link rel="author" href="https://plus.google.com/+ConorMacNeill">
 <link rel="author" type="text/plain" href="/humans.txt"> 
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -55,7 +55,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@thefella">
 <meta name="twitter:creator" content="@thefella">
-<meta name="twitter:title" content="{{ page.hero }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops">
+<meta name="twitter:title" content="{{ page.hero | strip_html }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops">
 <meta name="twitter:description" content="{{ page.description }}">
 <meta name="twitter:image" content="/assets/img/{{ page.social_image }}">
 
@@ -66,7 +66,7 @@
 <meta property="article:author" content="https://facebook.com/greg.annandale">
 <meta property="article:author" content="https://www.facebook.com/daniel.stephen.rubin">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{{ page.hero }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops">
+<meta property="og:title" content="{{ page.hero | strip_html }} Workshop - {{ page.date | date: '%-d %B, %Y' }} | f/8 Workshops">
 <meta property="og:description" content="{{ page.description }}">
 <meta property="og:image" content="{{ site.url }}{{ page.social_image }}">
 {% endif %}
