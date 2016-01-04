@@ -1,7 +1,7 @@
 greg:
   name: Greg Annandale
   photo: greg
-  bio: Mountaineer, Divemaster, <span>Travel &amp; Expedition</span> Photographer
+  bio: <span>Travel &amp; Expedition</span> Photographer, Mountaineer, Divemaster
   site: http://gregannandale.com
   instagram: greg_a
   flickr: greg-a
@@ -10,7 +10,7 @@ greg:
 conor:
   name: Conor MacNeill
   photo: conor
-  bio: Landscape &amp; Destination Photographer, Influencer, <span>Speaker</span>
+  bio: <span>Landscape &amp; Destination Photographer,</span> Influencer, Speaker
   site: https://thefella.com
   instagram: thefella
   flickr: thefella
@@ -19,7 +19,7 @@ conor:
 dan:
   name: Dan Rubin
   photo: dan
-  bio: Instagram Beta Tester, Designer, <span>V&amp;A Workshop Teacher</span>
+  bio: Photographer, Designer, <span>V&amp;A Workshop Teacher</span>
   site: http://danrubin.is
   instagram: danrubin
   flickr: danrubin

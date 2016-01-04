@@ -6,7 +6,7 @@ title: 			"Faroe Islands May 2016"
 location: 		"The Faroe Islands"
 hero: 			"Faroe Islands"
 teachers: 		greg,conor,dan
-tagline: 		'Landscape photography &amp; <span class="phrase">post-processing workshop</span>'
+tagline: 		'Landscape photography &amp; <span class="phrase">editing workshop</span>'
 description: 	"Experience The Faroe Islands untouched landscapes alongside experienced photographers. Then learn how to make your images look amazing."
 permalink: 		/faroe-islands-may-2016/
 endDate: 		2016-05-21
@@ -51,7 +51,7 @@ categories:
 
 # SITEMAP
 sitemap:
-  lastmod: 		2016-12-29
+  lastmod: 		2016-01-04
   priority: 	0.7
   changefreq: 	'monthly'
   exclude: 		'no'
@@ -68,7 +68,7 @@ layout: 		workshop
 
 
 [//]: # Conor Quote
-{% include quote.html quote="The Faroe Islands are so close, yet they feel like a completely different world!" cite="Conor MacNeill" image="/assets/img/faroes/conor_boat.jpg" wow="fadeInLeft" %}
+{% include quote.html quote="The Faroe Islands are so close to my home in the UK, yet they feel like a completely different world!" cite="Conor MacNeill" image="/assets/img/faroes/conor_boat.jpg" wow="fadeInLeft" %}
 
 
 [//]: # Teachers
@@ -76,21 +76,24 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Photography Adventure" price="&pound;1500 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+{% include schedule.html title="Faroe Photography Adventure" byline="7 days, 7 nights. Fitness level: Easy" price="&pound;1500 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
 
 
 [//]: # Details
 {% include workshop_details.html details=site.data.faroes.may-2016.details %}
 
 
+{% comment %}
 [//]: # Video
 {% include video_embed.html title="Experience The Faroe Islands" description="Come and visit an almost untouched archipelago!" videotitle="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
 
-
-{% comment %}
 [//]: # Dan Quote
 {% include quote.html quote="Dan Rubin, Dan Rubin, Dan Rubin, Dan Rubin. Dan Rubin." cite="Dan Rubin" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
 {% endcomment %}
+
+
+[//]: # Sponsor
+{% include sponsor.html sponsor=site.data.faroes.may-2016.sponsor image="/assets/img/faroes/dan-grass-coast-film.jpg" %}
 
 
 [//]: # Smartphones 

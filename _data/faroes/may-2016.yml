@@ -1,6 +1,6 @@
 schedule: 
     - name: Saturday
-      image: faroes/dan_harbour.jpg
+      image: faroes/zoe_puffins.jpg
       summary: "We'll pick you up from the airport and make sure you're all set for the week ahead."
       items:
         - __Arrival__ &mdash; transfer to our accommodation overlooking the capital of *Tórshavn*.
@@ -9,7 +9,7 @@ schedule:
         - Dinner &amp; drinks!
     
     - name: Sunday&mdash;Friday
-      image: faroes/dan_waterfall_rock.jpg
+      image: faroes/zoe_horses.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
       items:
         - Sunrise shoot (weather permitting).
@@ -27,30 +27,30 @@ schedule:
 
 
 details: 
-    intro: "We'll be journeying around some of the most remote islands in the North Atlantic. Based in *Tórshavn*, we'll hit some of our favourite photography locations around the archipelago."
-    gear_intro: "The landscapes are amazing, but the weather unpredictable. Here are just some of the things you’ll need:"
+    intro: "We’ll be journeying around these 18 most remote islands in the North Atlantic between Iceland, Norway and Scotland. Based in *Tórshavn*, we’ll hit some of our favourite photography locations around the archipelago."
+    gear_intro: "The landscapes are amazing, but the weather can be often unpredictable. Here are just some of the things you’ll need:"
     map: faroes/staticmap_faroe_islands.jpg
     gear: 
       - Camera and lenses (plus things like batteries and memory cards)
       - Tripod
       - ND filters for daytime shooting
-      - Appropriate clothing
+      - Appropriate outdoor clothing (wet-weather gear, hiking boots)
       - Laptop for post-processing (Lightroom & Photoshop)
       - Smartphone (optional, but recommended)
       - Head torch
       - Passport!
     included: 
-      - Accommodation for the whole trip
-      - Car hire
-      - All fuel costs
+      - Accommodation for the whole trip - 7 nights in 4* *Hotel Føroyar*
+      - Car hire and fuel
       - Breakfast, lunch and dinner each day
-      - Post-processing masterclass for all levels
-      - Photowalk around Tórshavn
+      - Tuition and post-processing masterclass (DSLR/smartphone) for all levels
+      - Photowalk around *Tórshavn*
     notincluded: 
-      - "Air fare to and from *Vágar* (The Faroe Island's main airport)"
+      - "Air fare to and from *Vágar* (The Faroe Islands' main airport)"
       - Alcoholic drinks
       - Visa costs (if applicable)
       - Travel & medical insurance
+      - Photographic insurance
 
 
 
@@ -60,7 +60,7 @@ smartphones:
     
     Bring your smartphone and prepare to learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
     
-    With over *1 million* followers on Instagram between them, [Greg](https://www.instagram.com/greg_a/), [Conor](https://www.instagram.com/thefella/) &amp; [Dan](https://www.instagram.com/danrubin/) are the men to show you how.
+    With over *1 million* followers on Instagram between them, [Greg](https://www.instagram.com/greg_a/), [Conor](https://www.instagram.com/thefella/) &amp; [Dan](https://www.instagram.com/danrubin/) will show you how.
   images:
     - faroes/iphone/conor_lake.jpg
     - faroes/iphone/greg_kallur.jpg
@@ -76,11 +76,11 @@ faq:
   - question: What type of accommodation should I expect?
     answer: "We'll be staying at [Hotel Føroyar](http://www.hotelforoyar.com), a beautiful four star hotel overlooking the Faroese capital of Tórshavn."
   - question: What if the weather is bad?
-    answer: The weather in the Faroe Islands can be wet and foggy. This can actually make for some fantastically moody photography! If it gets too bad, we will have a *Plan B* in the case of extremely severe (aka unsafe) weather, involving food and post-processing.
+    answer: The Faroe Islands sit in the middle of the Gulf Stream. While this means it never really gets too cold, the weather can be unpredictable – but this is what makes it so interesting! Wet and foggy conditions make for some fantastically moody photography! If it gets too bad, we will have a Plan B in the case of extremely severe (aka unsafe) weather, involving food and post-processing.
   - question: What skill levels do you teach?
     answer: We teach everyone from beginners to advanced photographers. Even if you don’t have a DSLR, we can help you get the best out of whatever camera you bring along ([get in touch](mailto:contact@f8.pe) if you have any gear-specific questions prior to booking).
   - question: What if I need more information?
-    answer: Feel free to [contact us](mailto:contact@f8.pe) with any queries that you may have. Once you are registered, we will send out an information pack prior to the workshop with more details. You can also tweet Conor ([@thefella](https://twitter.com/thefella)), Greg ([@greg_a](https://twitter.com/greg_a)) or Dan ([@danrubin](https://twitter.com/danrubin)).
+    answer: Feel free to [contact us](mailto:contact@f8.pe) with any queries that you may have. Once you are registered, we will send out an information pack prior to the workshop with more details.
   - question: What about cancellations?
     answer: "In general, we do not offer refunds, however: Depending on when you cancel and your reasons, we will do our best to refund all or some of your registration fee. You are also more than welcome to transfer your place to someone else if you can’t make it. Please check our complete [Terms & Conditions](/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf) for more details."
     
@@ -98,18 +98,26 @@ gallery:
     thumb: /assets/img/faroes/gallery/conor_saksun_small.jpg
 
 
+sponsor: 
+  title: "Sponsored by Olympus"
+  body: >
+      This is some text about the sponsor.
+
 
 intro: 
     title: "Discover one of Europe's last remaning hidden gems! This tiny archipelago is full of stunning waterfalls and rugged cliffs just waiting to be photographed."
     teaser: "/assets/img/faroes/conor_gasladder.jpg"
     body: >
-        Join [three experienced photographers & travellers](#teachers) as we take you on a journey through the Faroe Islands. You’ll experience nature at it's fullets, from mountains and waterfalls to 'floating' lakes and unbelieveable cliffs. With short drives to our favourite locations, and constant personal instruction from each one of us, you'll have a learning experience like no other.
+        Join us as we take you on a journey across the Faroe Islands experiencing breathtaking and unforgettable scenery: from majestic mountains, sweeping fjords and mighty waterfalls to ‘floating’ lakes and unbelievable cliffs.
+        
+        
+        As [three experienced photographers & travellers](#teachers) we know the Faroe Islands well, and with short drives to our favourite locations and constant dedicated personal instruction from each one of us, you’ll have a learning experience like no other.
         
         
         As well as learning how to shoot landscapes and the night sky with your DSLR (or film cameras / smartphone), our post-processing workshop will teach you everything you need to edit your images like a pro!
         
         
-        ### Catering to all levels
+        ### A workshop for all levels
         
         Whether you're a complete beginner or seasoned pro, there’s something to be gained from this fantastic trip around the Faroe Islands.
         
