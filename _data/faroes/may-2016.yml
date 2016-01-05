@@ -1,29 +1,29 @@
 schedule: 
-    - name: Saturday
+    - name: Saturday 14th
       image: faroes/zoe_puffins.jpg
       summary: "We'll pick you up from the airport and make sure you're all set for the week ahead."
       items:
-        - __Arrival__ &mdash; transfer to our accommodation overlooking the capital of *Tórshavn*.
-        - __Introduction__ &mdash; Walk through the week&rsquo;s plan, check our gear and research the weather conditions.
+        - __Arrival Day__&#58; transfer to our accommodation overlooking the capital of *Tórshavn*.
+        - __Introduction__&#58; Walk through the week&rsquo;s plan, check our gear and research the weather conditions.
         - Answer any questions you have and run through some photography tips and techniques.
         - Dinner &amp; drinks!
     
-    - name: Sunday&mdash;Friday
+    - name: Sunday 15th &mdash; Friday 20th
       image: faroes/zoe_horses.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
       items:
-        - Sunrise shoot (weather permitting).
-        - Visits to some of our favourite photography locations on the Faroe Islands.
-        - See lakes, waterfalls, mountains, cliffs and more!
+        - "Sunrise shoot (weather permitting)."
+        - "Visits to some of our favourite photography locations on the Faroe Islands including&#58; *Lake Sørvágsvatn*, *Gásadalur*, *Kalsoy*, *Mykines* (for the amazing puffins!), *Saksun* and *Gjógv*."
+        - "See lakes, waterfalls, mountains, cliffs and more!"
+        - "Each day we'll have a mix of shooting and editing tutorials, with the freedom to adapt if the weather changes!"
         
-    - name: Saturday
+    - name: Saturday 21st
       image: faroes/conor_red_house.jpg
-      summary: "A jam-packed day in *Tórshavn* to review and process the images you've taken on these magnificent islands!"
+      summary: "Time to recover and maybe even review and process the images you've taken on these magnificent islands!"
       items:
-        - Post-processing Master-class.
-        - Smartphone editing
-        - Photowalk around the city (smartphones ready!).
-        - Farewell dinner & drinks.
+        - __Departure Day__&#58; transfer to the airport whenever your flight is.
+        - Photowalk around the city for those still around for the day (smartphones ready!).
+        - Farewell lunch for those taking a later flight.
 
 
 details: 
