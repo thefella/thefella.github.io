@@ -28,7 +28,9 @@ soldout: 		false
 
 # BOOKING AND MAILING
 tandc: 				"/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf"
-tito: 				https://ti.to/thefella/faroe-islands-may-2016
+#tito: 				https://ti.to/thefella/faroe-islands-may-2016
+#billetto: 			109662
+getinvited: 		faroe-islands-may-2016
 mailchimpSite: 		FAROES16
 
 

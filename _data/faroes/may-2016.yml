@@ -8,7 +8,7 @@ schedule:
         - Answer any questions you have and run through some photography tips and techniques.
         - Dinner &amp; drinks!
     
-    - name: Sunday 15th &mdash; Friday 20th
+    - name: Sun 15th &mdash; Thurs 19th
       image: faroes/zoe_horses.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
       items:
@@ -17,13 +17,14 @@ schedule:
         - "See lakes, waterfalls, mountains, cliffs and more!"
         - "Each day we'll have a mix of shooting and editing tutorials, with the freedom to adapt if the weather changes!"
         
-    - name: Saturday 21st
+    - name: Friday 20th
       image: faroes/conor_red_house.jpg
       summary: "Time to recover and maybe even review and process the images you've taken on these magnificent islands!"
       items:
-        - __Departure Day__&#58; transfer to the airport whenever your flight is.
-        - Photowalk around the city for those still around for the day (smartphones ready!).
-        - Farewell lunch for those taking a later flight.
+        - Our final day!
+        - More post-processing of our images taken over the last few days.
+        - Photowalk around *Tórshavn* (smartphones ready!)
+        - Farewell dinner and drinks!
 
 
 details: 
