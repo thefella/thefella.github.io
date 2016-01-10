@@ -16,8 +16,8 @@ social_image: 	/assets/img/faroes/social_image.jpg
 
 
 #SPONSOR
-sponsor: 		Olympus
-sponsorImage: 	/assets/img/sponsors/olympus.png
+sponsor: 		Aviato
+sponsorImage: 	/assets/img/sponsors/aviato.jpg
 
 
 # AVAILABILITY

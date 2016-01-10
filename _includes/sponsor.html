@@ -1,8 +1,10 @@
 <section id="sponsor" class="group photo-group sponsor-group"{% if include.image %} style="background-image:url('{{ include.image }}');"{% endif %}>
-<header>
+<header markdown="1">
 <h1>{{ include.sponsor.title }}</h1>
 </header>
 
+<article class="measured" markdown="1">
 {{ include.sponsor.body }}
+</article>
 
 </section>
