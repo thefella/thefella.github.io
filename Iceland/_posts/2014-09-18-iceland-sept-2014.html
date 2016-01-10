@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+</head>
+<body>
+<hr />
+
+<h1 id="basics">BASICS</h1>
+
+<p>title: &#8220;Iceland Sept 2014&#8221;
+location: &#8220;Iceland&#8221;
+hero: &#8220;Iceland&#8221;
+teachers: greg,conor,dan
+tagline: &#8216;Landscape photography &amp; <span class="phrase">post-processing workshop</span>&#8217;
+description: &#8220;Experience Iceland&#8217;s iconic landscapes alongside experienced photographers. Then learn how to make your images look amazing.&#8221;
+permalink: /iceland-sept&#8211;2014/
+endDate: 2014&#8211;09&#8211;21
+heroImage: /assets/img/iceland/Kirkjufellsfoss-X3.jpg
+seller: &#8220;3 nights, 3 teachers, 9 students.&#8221;
+social_image: /assets/img/iceland/social_image.jpg</p>
+
+<h1 id="availability">AVAILABILITY</h1>
+
+<p>published: true
+status: confirmed
+soldout: false</p>
+
+<h1 id="bookingandmailing">BOOKING AND MAILING</h1>
+
+<p>contactemail: contact@f8.pe
+tandc: &#8220;/assets/docs/iceland/Iceland_Expedition_2014_T&amp;C.pdf&#8221;
+tito: https://ti.to/thefella/iceland&#8211;2014
+mailchimpSite: ICELAND14</p>
+
+<h1 id="navigation">NAVIGATION</h1>
+
+<p>secondaryNav:
+ - Intro
+ - Teachers
+ - Workshop
+ - Details
+ - Smartphones
+ - Adventure!
+ - Questions?</p>
+
+<h1 id="organisation">ORGANISATION</h1>
+
+<p>tags:
+ - iceland
+categories:
+ - previous</p>
+
+<h1 id="sitemap">SITEMAP</h1>
+
+<p>sitemap:
+ lastmod: 2016&#8211;12&#8211;27
+ priority: 0.5
+ changefreq: &#8216;monthly&#8217;
+ exclude: &#8216;no&#8217;</p>
+
+<h1 id="layout">LAYOUT</h1>
+
+<p>pageClass: &#8220;workshop iceland iceland-sept&#8211;2014&#8221;</p>
+
+<h2 id="layout:workshop">layout: workshop</h2>
+
+<p>[//]: # Intro
+{% include intro.html intro=site.data.iceland.sept&#8211;2014.intro %}</p>
+
+<p>[//]: # Quote
+{% include quote.html quote=&#8220;The landscape is ever-changing, there&#8217;s always something new to see.&#8221; cite=&#8220;Greg Annandale&#8221; image=&#8220;/assets/img/iceland/greg_iceberg.jpg&#8221; wow=&#8220;fadeInRight&#8221; %}</p>
+
+<p>[//]: # Teachers
+{% include teachers.html %}</p>
+
+<p>[//]: # Schedule
+{% include schedule.html title=&#8220;Weekend Workshop&#8221; price=&#8220;&euro;2000 per-person&#8221; bonus=&#8220;(save €1000 when you also register for our additional <a href="#adventure">7-day Adventure</a>!)&#8221; image=&#8220;/assets/img/iceland/centre_earth-xl.jpg&#8221; schedule=site.data.iceland.sept&#8211;2014.schedule %}</p>
+
+<p>[//]: # Details
+{% include workshop_details.html details=site.data.iceland.sept&#8211;2014.details %}</p>
+
+<p>[//]: # Quote
+{% include quote.html quote=&#8220;One of the most amazing and awe-inspiring countries I’ve ever photographed.&#8221; cite=&#8220;Conor MacNeill&#8221; image=&#8220;/assets/img/iceland/fjord_focus-l.jpg&#8221; wow=&#8220;fadeInLeft&#8221; %}</p>
+
+<p>[//]: # Smartphones
+{% include smartphones.html smartphones=site.data.iceland.sept&#8211;2014.smartphones %}</p>
+
+<p>[//]: # Adventure Add-On
+<section id="adventure" class="group photo-group half-group" markdown="1" style="background-image:url('/assets/img/iceland/greg_aurora.jpg');" ></p>
+
+<h1 id="7-dayadventureadd-on">7-day Adventure add-on</h1>
+
+<p>September is one of the best times of year to see the Northern Lights in Iceland, and for those of you interested in a <em>no-frills, drive and sleep in a van, shoot all night in middle of nowhere</em> extension to your Weekend Workshop, we’re making an <strong>additional trip</strong> immediately after, setting off Monday morning and spending 6 long nights chasing the Aurora Borealis (which there’s no guarantee we’ll see) and stopping off at many of Iceland&#8217;s most picturesque locations, with a relaxing day at the famous <a href="http://www.bluelagoon.com">Blue Lagoon</a> on Sunday to top it all off.</p>
+
+<p>It’s rough, it’s tiring, and it’s not for everyone — but if it’s for you, we’re inviting a few people to join us from <strong>September 22–28</strong> to experience our approach to capturing the night skies.</p>
+
+<p class="booking"><a class="call-to-action additional" href="#booking">Book now to secure your place &raquo;</a></p>
+
+<p></section></p>
+
+<p>[//]: # FAQ
+{% include faq.html faq=site.data.iceland.sept&#8211;2014.faq %}</p>
+
+<p>[//]: # Gallery
+{% include gallery.html photos=site.data.iceland.sept&#8211;2014.gallery background=&#8220;/assets/img/iceland/endless-blue-l.jpg&#8221; %}</p>
+
+</body>
+</html>
