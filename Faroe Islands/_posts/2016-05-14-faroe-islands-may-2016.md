@@ -15,9 +15,9 @@ seller: 		"3 teachers, 6 days, 10 photographers."
 social_image: 	/assets/img/faroes/social_image.jpg
 
 
-#SPONSOR
-sponsor: 		Aviato
-sponsorImage: 	/assets/img/sponsors/aviato.jpg
+# SPONSOR
+#sponsor: 		Aviato
+#sponsorImage: 	/assets/img/sponsors/aviato.jpg
 
 
 # AVAILABILITY
@@ -89,15 +89,15 @@ layout: 		workshop
 {% comment %}
 [//]: # Video
 {% include video_embed.html title="Experience The Faroe Islands" description="Come and visit an almost untouched archipelago!" videotitle="The Faroe Islands" youtube="0ba1E_TXxUc" image="/assets/img/faroes/conor_coast_blur.jpg" %}
-
 [//]: # Dan Quote
 {% include quote.html quote="Dan Rubin, Dan Rubin, Dan Rubin, Dan Rubin. Dan Rubin." cite="Dan Rubin" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
+[//]: # Sponsor
+{% include sponsor.html sponsor=site.data.faroes.may-2016.sponsor image="/assets/img/faroes/dan-grass-coast-film.jpg" %}
 {% endcomment %}
 
 
-[//]: # Sponsor
-{% include sponsor.html sponsor=site.data.faroes.may-2016.sponsor image="/assets/img/faroes/dan-grass-coast-film.jpg" %}
-
+[//]: # Zoe Quote
+{% include quote.html quote="The whales are just so tasty. Nom nom nom." cite="Zoë Timmers" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
 
 [//]: # Smartphones 
 {% include smartphones.html smartphones=site.data.faroes.may-2016.smartphones %}
