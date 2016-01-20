@@ -97,7 +97,7 @@ layout: 		workshop
 
 
 [//]: # Zoe Quote
-{% include quote.html quote="The whales are just so tasty. Nom nom nom." cite="Zoë Timmers" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
+{% include quote.html quote="The Faroe Islands are like no place I have ever been to before. The landscape blows my mind every time I visit - and gets under your skin so much you never want to leave." cite="Zoë Timmers" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
 
 [//]: # Smartphones 
 {% include smartphones.html smartphones=site.data.faroes.may-2016.smartphones %}
