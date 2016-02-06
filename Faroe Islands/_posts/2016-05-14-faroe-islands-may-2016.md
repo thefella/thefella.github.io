@@ -79,7 +79,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Photography Adventure" byline="7 days, 6 nights. Fitness level: Easy" price="&pound;1500 per-person" bonus="(Save &pound;250 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+{% include schedule.html title="Faroe Photography Adventure" byline="7 days, 6 nights. Fitness level: Easy" price="&pound;1800 per-person" bonus="(Save &pound;200 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
 
 
 [//]: # Details
@@ -99,7 +99,7 @@ layout: 		workshop
 [//]: # Zoe Quote
 {% include quote.html quote="The Faroe Islands are like no place I have ever been to before. The landscape blows my mind every time I visit - and gets under your skin so much you never want to leave." cite="Zoë Timmers" image="/assets/img/faroes/dan-grass-coast-film.jpg" wow="fadeInRight" %}
 
-[//]: # Smartphones 
+[//]: # Smartphones
 {% include smartphones.html smartphones=site.data.faroes.may-2016.smartphones %}
 
 
@@ -111,5 +111,5 @@ layout: 		workshop
 {% include faq.html faq=site.data.faroes.may-2016.faq %}
 
 
-[//]: # Gallery 
+[//]: # Gallery
 {% include gallery.html photos=site.data.faroes.may-2016.gallery background="/assets/img/faroes/dan_huts.jpg" %}
