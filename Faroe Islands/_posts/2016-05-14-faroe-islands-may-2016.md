@@ -79,7 +79,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Islands Photography Adventure" byline="7 days, 7 nights. Fitness level: Easy" price="&pound;1800 per-person" bonus="(Save &pound;100 by [booking](#booking) early!)" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
+{% include schedule.html title="Faroe Islands Photography Adventure" byline="7 days, 7 nights. Fitness level: Easy" price="&pound;1800 per-person" bonus="Save &pound;100 by [booking](#booking) early! <br/> Early bird prices available for three weeks only!" image="/assets/img/faroes/conor_lake_hike.jpg" schedule=site.data.faroes.may-2016.schedule %}
 
 
 [//]: # Details
