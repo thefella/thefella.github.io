@@ -110,6 +110,8 @@ layout: 		workshop
 [//]: # FAQ
 {% include faq.html faq=site.data.faroes.may-2016.faq %}
 
+[//]: # VFI
+{% include vfi.html %}
 
 [//]: # Gallery
 {% include gallery.html photos=site.data.faroes.may-2016.gallery background="/assets/img/faroes/dan_huts.jpg" %}
