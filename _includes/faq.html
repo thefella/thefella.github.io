@@ -3,13 +3,10 @@
 <h1>Frequently Asked Questions</h1>
 </header>
 
-<ul>
 {% for item in include.faq %}
-<li><h3>{{ item.question }}</h3>
-<p>{{ item.answer }}</p>
-</li>
+* ###{{ item.question }}
+{{ item.answer }}
 {% endfor %}
-</ul>
 
 <p class="buttons"><a class="call-to-action" href="mailto:{{ page.contactemail }}">Get in contact!</a></p>
 </section>
