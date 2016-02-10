@@ -1,4 +1,4 @@
-schedule: 
+schedule:
     - name: Saturday 14th
       image: faroes/zoe_puffins.jpg
       summary: "We'll pick you up from the airport and make sure you're all set for the week ahead."
@@ -7,7 +7,7 @@ schedule:
         - __Introduction__&#58; Walk through the week&rsquo;s plan, check our gear and research the weather conditions.
         - Answer any questions you have and run through some photography tips and techniques.
         - Dinner &amp; drinks!
-    
+
     - name: Sun 15th &mdash; Thurs 19th
       image: faroes/zoe_horses.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
@@ -16,10 +16,10 @@ schedule:
         - "Visits to some of our favourite photography locations on the Faroe Islands including&#58; *Lake Sørvágsvatn*, *Gásadalur*, *Kalsoy*, *Mykines* (for the amazing puffins!), *Saksun* and *Gjógv*."
         - "See lakes, waterfalls, mountains, cliffs and more!"
         - "Each day we'll have a mix of shooting and editing tutorials, with the freedom to adapt if the weather changes!"
-        
+
     - name: Friday 20th
       image: faroes/conor_red_house.jpg
-      summary: "Time to recover and maybe even review and process the images you've taken on these magnificent islands!"
+      summary: "Time to relax and maybe even review and process the images you've taken on these magnificent islands!"
       items:
         - Our final day!
         - More post-processing of our images taken over the last few days.
@@ -27,11 +27,11 @@ schedule:
         - Farewell dinner and drinks!
 
 
-details: 
+details:
     intro: "We’ll be journeying around these 18 most remote islands in the North Atlantic between Iceland, Norway and Scotland. Based in *Tórshavn*, we’ll hit some of our favourite photography locations around the archipelago."
     gear_intro: "The landscapes are amazing, but the weather can be often unpredictable. Here are just some of the things you’ll need:"
     map: faroes/staticmap_faroe_islands.jpg
-    gear: 
+    gear:
       - Camera and lenses (plus things like batteries and memory cards)
       - Tripod
       - ND filters for daytime shooting
@@ -40,13 +40,13 @@ details:
       - Smartphone (optional, but recommended)
       - Head torch
       - Passport!
-    included: 
+    included:
       - Accommodation for the whole trip - 7 nights in 4* *Hotel Føroyar*
       - Car hire and fuel
       - Breakfast, lunch and dinner each day
       - Tuition and post-processing masterclass (DSLR/smartphone) for all levels
       - Photowalk around *Tórshavn*
-    notincluded: 
+    notincluded:
       - "Air fare to and from *Vágar* (The Faroe Islands' main airport)"
       - Alcoholic drinks
       - Visa costs (if applicable)
@@ -56,37 +56,37 @@ details:
 
 
 smartphones:
-  intro: | 
+  intro: |
     While you’ll likely want to capture the stunning landscapes of The Faroe Islands on the best camera possible, that doesn’t mean you should ignore the one in your pocket.
-    
+
     Bring your smartphone and prepare to learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
-    
+
     With over *1 million* followers on Instagram between them, [Greg](https://www.instagram.com/greg_a/), [Conor](https://www.instagram.com/thefella/) &amp; [Dan](https://www.instagram.com/danrubin/) will show you how.
   images:
     - faroes/iphone/conor_lake.jpg
     - faroes/iphone/greg_kallur.jpg
     - faroes/iphone/conor_coast.jpg
     - faroes/iphone/dan_cliff.jpg
-    
-    
-faq: 
+
+
+faq:
   - question: How is payment handled?
     answer: We use a third-party service called [Billetto](https://billetto.co.uk). This not only allows us secure online transactions, but we can accept numerous forms of payment from credit card to PayPal — whatever suits you best!
   - question: What about flights?
-    answer: Flights to the Faroe Islands are not included, so shop around for the best deal (as always, the earlier you book, the better). You can fly with [Atlantic Airways](https://www.atlantic.fo) from Edinbugh, Copenhagen, Barcelona and Reykjavik, amongst others. [Let us know](mailto:zoetimmers@me.com) if you have any questions whatsoever!
+    answer: Flights to the Faroe Islands are not included, so shop around for the best deal (as always, the earlier you book, the better). You can fly with [Atlantic Airways](https://www.atlantic.fo) from many locations including Copenhagen, Edinburgh, Reykjavik and Bergen. Flight times vary. Let us know if you have any questions. If you feel you want to come early to get the best flights please let us know and we can help and advise.
   - question: What type of accommodation should I expect?
     answer: "We'll be staying at [Hotel Føroyar](http://www.hotelforoyar.com), a beautiful four star hotel overlooking the Faroese capital of Tórshavn."
   - question: What if the weather is bad?
-    answer: The Faroe Islands sit in the middle of the Gulf Stream. While this means it never really gets too cold, the weather can be unpredictable – but this is what makes it so interesting! Wet and foggy conditions make for some fantastically moody photography! If it gets too bad, we will have a Plan B in the case of extremely severe (aka unsafe) weather, involving food and post-processing.
+    answer: The Faroe Islands sit in the middle of the Gulf Stream. While this means it never really gets too cold, the weather can be unpredictable – but this is what makes it so interesting! Wet and foggy conditions make for some fantastically moody photography! If it gets too bad, we will have a Plan B in the case of extremely severe (aka unsafe) weather, involving food and post-processing and shooting techniques. We never stop learning!
   - question: What skill levels do you teach?
     answer: We teach everyone from beginners to advanced photographers. Even if you don’t have a DSLR, we can help you get the best out of whatever camera you bring along ([get in touch](mailto:zoetimmers@me.com) if you have any gear-specific questions prior to booking).
   - question: What if I need more information?
     answer: Feel free to [contact us](mailto:zoetimmers@me.com) with any queries that you may have. Once you are registered, we will send out an information pack prior to the workshop with more details.
   - question: What about cancellations?
-    answer: "In general, we do not offer refunds, however: Depending on when you cancel and your reasons, we will do our best to refund all or some of your registration fee. You are also more than welcome to transfer your place to someone else if you can’t make it. Please check our complete [Terms & Conditions](/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf) for more details."
-    
-    
-gallery: 
+    answer: "Please check our complete [Terms & Conditions](/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf) for more details."
+
+
+gallery:
   - large: /assets/img/faroes/gallery/dan_cliffs_big.jpg
     thumb: /assets/img/faroes/gallery/dan_cliffs_small.jpg
   - large: /assets/img/faroes/gallery/dan_boat_ride_big.jpg
@@ -99,30 +99,30 @@ gallery:
     thumb: /assets/img/faroes/gallery/conor_saksun_small.jpg
 
 
-sponsor: 
+sponsor:
   title: "Sponsored by Olympus"
   body: >
-      This is a fantastic opportunity if you're thinking about making the switch to a micro four thirds system that doesn't compromise image quality. We had a chance to test out the OM-D EM1 ourselves recently and were seriously impressed with its super fast focussing, amazing array of professional standard lenses and low light capabilities to rival full frame DSLR systems, all within a light weight body that's perfect for hiking around.  
+      This is a fantastic opportunity if you're thinking about making the switch to a micro four thirds system that doesn't compromise image quality. We had a chance to test out the OM-D EM1 ourselves recently and were seriously impressed with its super fast focussing, amazing array of professional standard lenses and low light capabilities to rival full frame DSLR systems, all within a light weight body that's perfect for hiking around.
 
       The great news is that each participant will be entered into a prize draw where you could potentially win an OM-D EM1 system to take home with you.
 
 
-intro: 
-    title: "Discover one of Europe's last remaning hidden gems! This tiny archipelago is full of stunning waterfalls and rugged cliffs just waiting to be photographed."
+intro:
+    title: "Discover one of Europe's last remaining hidden gems! This tiny archipelago is full of stunning waterfalls and rugged cliffs just waiting to be photographed."
     teaser: "/assets/img/faroes/conor_gasladder.jpg"
     body: >
         Join us as we take you on a journey across the Faroe Islands experiencing breathtaking and unforgettable scenery: from majestic mountains, sweeping fjords and mighty waterfalls to ‘floating’ lakes and unbelievable cliffs.
-        
-        
+
+
         As [three experienced photographers & travellers](#teachers) we know the Faroe Islands well, and with short drives to our favourite locations and constant dedicated personal instruction from each one of us, you’ll have a learning experience like no other.
-        
-        
+
+
         As well as learning how to shoot landscapes and the night sky with your DSLR (or film cameras / smartphone), our post-processing workshop will teach you everything you need to edit your images like a pro!
-        
-        
+
+
         ### A workshop for all levels
-        
+
         Whether you're a complete beginner or seasoned pro, there’s something to be gained from this fantastic trip around the Faroe Islands.
-        
-        
+
+
         We can help you improve a number of aspects of your photography, whether you shoot digital, film or simply on your smartphone.
