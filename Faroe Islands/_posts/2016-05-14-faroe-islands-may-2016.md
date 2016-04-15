@@ -23,7 +23,7 @@ social_image: 	/assets/img/faroes/social_image.jpg
 # AVAILABILITY
 published: 		true
 status: 		confirmed
-soldout: 		false
+soldout: 		true
 
 
 # BOOKING AND MAILING
