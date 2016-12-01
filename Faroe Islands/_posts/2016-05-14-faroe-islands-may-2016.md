@@ -49,7 +49,7 @@ secondaryNav:
 tags:
   - faroes
 categories:
-  - upcoming
+  - previous
 
 
 # SITEMAP

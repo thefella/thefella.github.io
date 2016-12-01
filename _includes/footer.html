@@ -10,8 +10,12 @@
 			<h3>Upcoming Workshops</h3>
 			<ul>
 				{% for post in site.categories.upcoming %}
-				{% if post.url %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}
+				{% if post.url %}{% if post.published %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endif %}
 				{% endfor %}
+				
+				{% if site.categories.upcoming == null %}
+				  <li>Stay tuned, as we are always working on new workshops!</li>
+				{% endif %}
 			</ul>
 		</article>
 		
@@ -27,5 +31,5 @@
 	</div>
 
 
-	<p class="legal measured"><small>&copy; Copyright {{ site.time | date: '%Y' }} Greg Annandale, Conor MacNeill, Dan Rubin &amp; Zoë Timmers.</small> Hosted by <a href="https://github.com">Github</a>, with fonts by <a href="http://typekit.com/">Typekit</a>. {% if page.tandc %}<a href="{{ page.tandc }}" download>Terms &amp; Conditions</a>. {% endif %}<a href="#top">Back to top</a>.</p>
+	<p class="legal measured"><small>&copy; Copyright {{ site.time | date: '%Y' }} f/8 Photography Workshops.</small> Hosted by <a href="https://github.com">Github</a>, with fonts by <a href="http://typekit.com/">Typekit</a>. {% if page.tandc %}<a href="{{ page.tandc }}" download>Terms &amp; Conditions</a>. {% endif %}<a href="#top">Back to top</a>.</p>
 </footer>

@@ -10,7 +10,7 @@ greg:
 conor:
   name: Conor MacNeill
   photo: conor
-  bio: <span>Landscape &amp; Destination Photographer,</span> Speaker, Martial Arts Instructor
+  bio: <span>Landscape &amp; Destination Photographer,</span> Speaker, Brand Content Creator
   site: https://thefella.com
   instagram: thefella
   flickr: thefella
@@ -33,3 +33,13 @@ zoe:
   instagram: zobolondon
   linkedin: zoetimmers
   twitter: zobolondon
+
+jeff:
+  name: Jeff Bartlett
+  photo: jeff2
+  #bio: Adventure Photographer, <span>Social Media Influencer</span>
+  bio: Adventure Photographer &amp; Writer, Avid Skier &amp; Mountain Biker, World Traveller
+  site: http://www.jeffbartlettmedia.com
+  instagram: photojbartlett
+  twitter: photojbartlett
+  facebook: JBartlettMedia

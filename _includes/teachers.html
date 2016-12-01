@@ -15,9 +15,10 @@
 			<p class="social">
 				{% if teacher.site %}<a href="{{ teacher.site }}" class="url ss-icon ss-social-circle" title="Website for {{ teacher.name }} - {{ teacher.site }}">Link</a>{% endif %}
 				{% if teacher.instagram %}<a href="https://instagram.com/{{ teacher.instagram }}" class="ss-icon ss-social-circle" title="Instagram">Instagram</a>{% endif %}
+				{% if teacher.twitter %}<a href="https://twitter.com/{{ teacher.twitter }}" class="ss-icon ss-social-circle" title="Twitter">Twitter</a>{% endif %}
+				{% if teacher.facebook %}<a href="https://www.facebook.com/{{ teacher.facebook }}" class="ss-icon ss-social-circle" title="Facebook">Facebook</a>{% endif %}
 				{% if teacher.flickr %}<a href="https://www.flickr.com/photos/{{ teacher.flickr }}" class="ss-icon ss-social-circle" title="Flickr">Flickr</a>{% endif %}
 				{% if teacher.linkedin %}<a href="https://www.linkedin.com/in/{{ teacher.linkedin }}" class="ss-icon ss-social-circle" title="Linkedin">Linkedin</a>{% endif %}
-				{% if teacher.twitter %}<a href="https://twitter.com/{{ teacher.twitter }}" class="ss-icon ss-social-circle" title="Twitter">Twitter</a>{% endif %}
 			</p>
 		</li>
 		{% endfor %}

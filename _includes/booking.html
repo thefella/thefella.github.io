@@ -5,7 +5,9 @@
 {% else %}
 {% if page.getinvited %}
 {% include getinvited.html %}
-{% else if page.billetto %}
+{% elsif page.tilt %}
+{% include tilt.html %}
+{% elsif page.billetto %}
 {% include billetto.html %}
 {% else %}
 {% include tito.html %}
