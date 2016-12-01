@@ -102,7 +102,7 @@ layout: 		workshop
 
 
 [//]: # Karsten Quote
-{% include quote.html quote="Great workshop and great people. It was one of the best weeks I had in a long time. Super inspiring and perfect to optimise my photography skills especially in such a beautiful location!" cite="Karsten Koehn" image="/assets/img/faroes/conor_blur_coast2.jpg" wow="fadeInLeft" %}
+{% include quote.html quote="Great workshop and great people. It was one of the best weeks I had in a long time. Super inspiring and perfect to optimise my photography skills especially in such a beautiful location!" cite="Karsten Koehn, May 2016" image="/assets/img/faroes/conor_blur_coast2.jpg" wow="fadeInLeft" %}
 
 
 [//]: # FAQ
