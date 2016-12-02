@@ -10,7 +10,7 @@ tagline: 		'Landscape photography &amp; <span class="phrase">editing workshop</s
 description: 	"Experience The Faroe Islands untouched landscapes alongside experienced photographers. Then learn how to make your images look amazing."
 permalink: 		/faroe-islands-may-2017/
 endDate: 		2017-05-27
-heroImage: 		/assets/img/faroes/mykines.jpg
+heroImage: 		/assets/img/faroes/mykines2.jpg
 seller: 		"3 teachers, 6 days, 10 photographers."
 social_image: 	/assets/img/faroes/social_image.jpg
 
