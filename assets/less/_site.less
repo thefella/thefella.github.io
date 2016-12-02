@@ -48,7 +48,7 @@ html[lang="en"] {
 
 
 body {
-	color: #444;
+	color: @fontcolor;
 	font-family: @mainfont;
 	font-size: 95%;
 	font-style: normal;
@@ -230,7 +230,7 @@ header.lengthy h1 {
 
 	@media screen and (min-width: 40em) {
 		.quote {
-			font-size: 2.25em;
+			font-size: 2em;
 		}
 	}
 
@@ -246,8 +246,14 @@ header.lengthy h1 {
 
 .quote figcaption {
 	line-height: 1;
-	margin-top: 0.25em;
+	margin-top: 0.85em;
 }
+
+	@media screen and (min-width: 40em) {
+		.quote figcaption {
+			margin-top: 0.35em;
+		}
+	}
 
 
 

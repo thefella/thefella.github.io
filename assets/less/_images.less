@@ -25,6 +25,21 @@ img.vfi-logo {
 }
 
 
+
+@supports (shape-outside: circle()) {
+	@media screen and (min-width: 52em) {
+		.faroe-islands-may-2017 img.teaser {
+			border-radius: 50% 0;
+			float: left;
+			margin: 0 1em 0 -100px;
+			shape-outside: polygon(-109px 96px, -98px 64px, -82px 44px, -68px 27px, -50px 11px, -24px -2px, 7px -11px, 166px -12px, 168px 158px, 160px 181px, 144px 212px, 121px 235px, 90px 253px, 52px 266px, -109px 265px);
+		}
+	}
+}
+    
+    
+
+
 //! Photo groups
 .photo-group {
 	background-color: black;
