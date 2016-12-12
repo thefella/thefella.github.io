@@ -30,9 +30,10 @@ zoe:
   photo: zoe
   bio: Producer, Photographer, <span>Social Media Influencer</span>
   site: http://www.zoetimmers.com
-  instagram: zobolondon
+  instagram: zobolondon 
   linkedin: zoetimmers
   twitter: zobolondon
+  #facebook: zoetimmersphotography
 
 jeff:
   name: Jeff Bartlett

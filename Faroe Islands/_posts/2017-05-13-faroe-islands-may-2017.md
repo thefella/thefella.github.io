@@ -9,7 +9,7 @@ teachers: 		conor,jeff,zoe
 tagline: 		'Landscape photography &amp; <span class="phrase">editing workshop</span>'
 description: 	"Experience The Faroe Islands untouched landscapes alongside experienced photographers. Then learn how to make your images look amazing."
 permalink: 		/faroe-islands-may-2017/
-endDate: 		2017-05-27
+endDate: 		2017-05-20
 heroImage: 		/assets/img/faroes/mykines2.jpg
 seller: 		"3 teachers, 6 days, 10 photographers."
 social_image: 	/assets/img/faroes/social_image.jpg
@@ -52,7 +52,7 @@ categories:
 
 # SITEMAP
 sitemap:
-  lastmod: 		2016-01-12
+  lastmod: 		2016-12-12
   priority: 	0.7
   changefreq: 	'monthly'
   exclude: 		'no'
@@ -77,7 +77,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Islands Photography Adventure" byline="7 days, 7 nights. Fitness level: Medium" price="&pound;2000 per-person" bonus="" image="/assets/img/faroes/conor_mykines_point.jpg" schedule=site.data.faroes.may-2017.schedule %}
+{% include schedule.html title="Faroe Islands Photography Adventure" byline="7 days, 7 nights. Fitness level: Medium" price="&pound;1950 per-person <span class=\"byline\">(<b>&pound;1750</b> early bird!)</span>" bonus="" image="/assets/img/faroes/conor_mykines_point.jpg" schedule=site.data.faroes.may-2017.schedule %}
 
 
 [//]: # Details

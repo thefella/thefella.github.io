@@ -1,5 +1,5 @@
 schedule:
-    - name: Saturday 14th
+    - name: Saturday 13th
       image: faroes/zoe_torshavn-cropped.jpg
       summary: "We'll pick you up from the airport and make sure you're all set for the week ahead."
       items:
@@ -8,7 +8,7 @@ schedule:
         - Answer any questions you have and run through some photography tips and techniques.
         - Dinner &amp; drinks!
 
-    - name: Sun 15th &mdash; Thurs 19th
+    - name: Sun 14th &mdash; Thurs 18th
       image: faroes/conor_zoe.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
       items:
@@ -17,7 +17,7 @@ schedule:
         - "See lakes, waterfalls, mountains, cliffs and more!"
         - "Each day we'll have a mix of shooting and editing tutorials, with the freedom to adapt if the weather changes!"
 
-    - name: Friday 20th
+    - name: Friday 19th
       image: faroes/zoe_puffins2.jpg
       summary: "Time to relax and maybe even review and process the images you've taken on these magnificent islands!"
       items:
@@ -43,12 +43,13 @@ details:
     included:
       - Accommodation for the whole trip - 7 nights in 4* *Hotel Føroyar*
       - Car hire and fuel
-      - Breakfast, lunch and dinner each day
+      - Breakfast, lunch, welcome and farewell dinners, and a evening meal in between! 
       - Tuition and post-processing masterclass (DSLR/smartphone) for all levels
       - Photowalk around *Tórshavn*
     notincluded:
       - "Air fare to and from *Vágar* (The Faroe Islands' main airport)"
-      - Alcoholic drinks
+      - Alcoholic drinks 
+      - Some evening meals 
       - Visa costs (if applicable)
       - Travel & medical insurance
       - Photographic insurance
@@ -59,7 +60,7 @@ smartphones:
   intro: |
     While you’ll likely want to capture the stunning landscapes of The Faroe Islands on the best camera possible, that doesn’t mean you should ignore the one in your pocket.
 
-    Bring your smartphone and prepare to learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
+    Bring your smartphone and learn how to shoot (and edit) amazing landscapes on the camera you always have with you.
 
     With nearly *half a million* followers on Instagram between them, [Conor](https://www.instagram.com/thefella/), [Jeff](https://www.instagram.com/photojbartlett/) and [Zoe](https://www.instagram.com/zobolondon/) will show you how. 
   images:
@@ -75,7 +76,7 @@ faq:
   - question: What about flights?
     answer: "Flights to the Faroe Islands are not included, so shop around for the best deal (as always, the earlier you book, the better). You can fly with [Atlantic Airways](https://www.atlantic.fo) from many locations including Copenhagen, Edinburgh, Reykjavik and Bergen. Flight times vary. Let us know if you have any questions. If you feel you want to come early to get the best flights please let us know and we can help and advise."
   - question: What type of accommodation should I expect?
-    answer: "We'll be staying at [Hotel Føroyar](http://www.hotelforoyar.com), a beautiful four star hotel overlooking the Faroese capital of Tórshavn. This unique and stunning hotel is actually carved into the rock face high above the Faroese capital, with all rooms getting a great view over the city and harbour!"
+    answer: "We'll be staying at [Hotel Føroyar](http://www.hotelforoyar.com), a beautiful boutique, grass-roofed, four star hotel overlooking the Faroese capital of Tórshavn. This unique and stunning hotel is actually carved into the rock face high above the Faroese capital, with all rooms getting a great view over the city and harbour!"
   - question: What if the weather is bad?
     answer: The Faroe Islands sit in the middle of the Gulf Stream. While this means it never really gets too cold, the weather can be unpredictable – but this is what makes it so interesting! Wet and foggy conditions make for some fantastically moody photography! If it gets too bad, we will have a Plan B in the case of extremely severe (aka unsafe) weather, involving food and post-processing and shooting techniques. We never stop learning!
   - question: What skill levels do you teach?
@@ -108,7 +109,7 @@ sponsor:
 
 
 intro:
-    title: "Following on from our last, sold out, Faroe Islands adventure, join us once again as we explore one of Europe's most undiscovered places. This tiny collection of islands is full moody landscapes just waiting for you to photograph them!"
+    title: "Following our last, sold out, Faroe Islands adventure, join us once again as we explore one of Europe's most undiscovered places. This tiny collection of islands is full of moody landscapes just waiting for you to photograph!"
     teaser: "/assets/img/faroes/conor_coast_chopper.jpg"
     body: >
         Join us as we take you on a journey across the Faroe Islands experiencing breathtaking and unforgettable scenery: from majestic mountains, sweeping fjords and mighty waterfalls to ‘floating’ lakes and unbelievable cliffs.
@@ -117,7 +118,7 @@ intro:
         As [three experienced photographers & travellers](#teachers) we know the Faroe Islands well, and with short drives to our favourite locations, constant dedicated personal instruction from each one of us, and only 10 participants taking part, this will be a bespoke learning experience like no other!
 
 
-        You’ll learn how to photograph amazing landscapes, capture the night sky, and all the tips and tricks needed to edit your images like a pro! We’ll also show you everything you need to know about your camera and its settings — whether it’s a smartphone, DSLR,  or mirrorless. You’ll be on your way to mastering professional techniques in no time!
+        You’ll learn how to photograph these amazing landscapes and all the tips and tricks needed to edit your images like a pro! We’ll also show you everything you need to know about your camera and its settings — whether it’s a smartphone, DSLR,  or mirrorless. You’ll be on your way to mastering professional techniques in no time!
 
 
         ### A workshop for everyone
