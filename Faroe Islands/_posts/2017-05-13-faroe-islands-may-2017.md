@@ -10,9 +10,10 @@ tagline: 		'Landscape photography &amp; <span class="phrase">editing workshop</s
 description: 	"Experience The Faroe Islands untouched landscapes alongside experienced photographers. Then learn how to make your images look amazing."
 permalink: 		/faroe-islands-may-2017/
 endDate: 		2017-05-20
-heroImage: 		/assets/img/faroes/mykines2.jpg
+heroImage: 		/assets/img/faroes/mykines3.jpg
 seller: 		"3 teachers, 6 days, 10 photographers."
-social_image: 	/assets/img/faroes/social_image.jpg
+social_image: 	/assets/img/faroes/social_image_may_2017.jpg
+earlybirdprice: 1750
 
 
 # SPONSOR
@@ -24,11 +25,12 @@ social_image: 	/assets/img/faroes/social_image.jpg
 published: 		true
 status: 		confirmed
 soldout: 		false
+earlybird: 		true
 
 
 # BOOKING AND MAILING
 contactemail: 		zoetimmers@me.com
-tandc: 				"/assets/docs/faroes/Faroe_Islands_May_2016_T&C.pdf"
+tandc: 				"/assets/docs/faroes/Faroe_Islands_May_2017_T&C.pdf"
 billetto: 			168662
 mailchimpSite: 		FAROES17 
 
@@ -52,7 +54,7 @@ categories:
 
 # SITEMAP
 sitemap:
-  lastmod: 		2016-12-12
+  lastmod: 		2016-12-13
   priority: 	0.7
   changefreq: 	'monthly'
   exclude: 		'no'

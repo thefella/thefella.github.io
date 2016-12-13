@@ -3,7 +3,10 @@
 {% include head.html %}
 <body id="top" class="{% if page.pageClass %}{{ page.pageClass }}{% else %}{{ site.pageClass }}{% endif %}">
 {% if page.soldout %}<b class="ribbon soldout">Sold Out</b>
-{% endif %}<div class="global-wrapper">
+{% endif %}
+{% if page.earlybird %}<b class="ribbon earlybird">Early Bird Price!{% if page.pageClass %} <span>&pound;{{ page.earlybirdprice }}</span>{% endif %}</b>
+{% endif %}
+<div class="global-wrapper">
 	
 <!--global menu-->
 

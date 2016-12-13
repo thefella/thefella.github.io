@@ -258,7 +258,7 @@ header.lengthy h1 {
 
 
 
-//! Ribbon (sold out)
+//! Ribbon (sold out / early bird)
 .ribbon {
 	background-color: rgba(0,128,0,0.9);
 	color: rgba(255,255,255,0.95);
@@ -266,6 +266,7 @@ header.lengthy h1 {
 	font-weight: bold;
 	overflow: hidden;
 	padding: 0.25em 3em;
+	pointer-events: none;
 	white-space: nowrap;
 	z-index: 1000;
 
@@ -276,6 +277,21 @@ header.lengthy h1 {
 	 -moz-transform: rotate(-45deg);
 	  -ms-transform: rotate(-45deg);
 	      transform: rotate(-45deg);
+}
+
+.ribbon.earlybird {
+	background-color: rgba(211,68,20,0.9);
+	//background-color: rgba(247,147,30,0.9);
+	//background-color: rgba(241,90,36,0.9);
+	left: -3.5em;
+	top: 2.15em;
+}
+
+.ribbon > span {
+	display: block;
+	font-size: 0.75em;
+	margin-top: -0.25em;
+	text-align: center;
 }
 
 	@media screen and (min-width: 40em) {
