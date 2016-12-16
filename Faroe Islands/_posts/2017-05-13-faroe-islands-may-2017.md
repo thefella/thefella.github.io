@@ -31,7 +31,7 @@ earlybird: 		true
 # BOOKING AND MAILING
 contactemail: 		zoetimmers@me.com
 tandc: 				"/assets/docs/faroes/Faroe_Islands_May_2017_T&C.pdf"
-billetto: 			168662
+billetto: 			170797
 mailchimpSite: 		FAROES17 
 
 
