@@ -128,9 +128,57 @@ $(document).ready(function docReady() {
 			$("#nav").removeClass('scrolled');
 		}
 	}
-
+	
+	
+	//! Start Slideshow
+	slideshow(6);
 });
 
 
 
+//! Slideshow generator
+function slideshow(speed) {
+	
+	//! Default speed of image crossfade
+	if (speed === undefined) {
+          speed = 6;
+    } 
+	
+	//! Slideshow in hero
+	var $slideshow = $('[data-slideshow]');
+	
+	//! Check to see if page has slideshow or not
+	if ($('[data-slideshow]').length) {
+		console.log('Slideshow discovered on page');
+	} else {
+		return;
+	}
+	
+	//! Add a class for css
+	$slideshow.addClass('hero-slideshow');
+	
+	//! Split the data attribute into an array of images
+	var slideshowImages = $slideshow.data('slideshow').split(",");
+	
+	var numSlides = slideshowImages.length;
+	//var animationDuration = numSlides * speed;
+	//console.log(animationDuration);
 
+	//! Start to build the template
+	var slideshowTemplate = '<div class="slideshow-container slideshow-container-' + numSlides + '">';
+	var n=0;
+	
+	//! Loop through the images
+	$.each(slideshowImages, function(i) {
+		var animationDelay = n * speed // no. seconds per image
+		animationDelay = animationDelay < 0 ? 0 : animationDelay;
+		slideshowTemplate += '<figure style="background-image:url(\'' + slideshowImages[i] + '\'); animation-delay: ' + animationDelay + 's;"></figure>';
+		n++;
+	});
+	
+	//! Finish template
+	slideshowTemplate += '</div>';
+	
+	//! Append template
+	$slideshow.append(slideshowTemplate);
+}
