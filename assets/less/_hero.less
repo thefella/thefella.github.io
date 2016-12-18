@@ -223,15 +223,17 @@
     z-index: -2;
 }
 
-.slideshow-container::after {
-	background-color: rgba(0,0,0,0.2);
-	bottom: 0;
-    content: "";
-    display: block;
-    left: 0;
-    position: absolute;
-    top: 0;
-    right: 0;
+@media screen and (max-width: 40em) {
+	.slideshow-container::after {
+		background-color: rgba(0,0,0,0.2);
+		bottom: 0;
+	    content: "";
+	    display: block;
+	    left: 0;
+	    position: absolute;
+	    top: 0;
+	    right: 0;
+	}
 }
 
 .slideshow-container > figure {
