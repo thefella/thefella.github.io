@@ -11,7 +11,7 @@ description: 	"Experience The Faroe Islands untouched landscapes alongside exper
 permalink: 		/faroe-islands-may-2017/
 endDate: 		2017-05-20
 heroImage: 		/assets/img/faroes/mykines3.jpg 
-heroSlides: 	/assets/img/faroes/mykines3.jpg,/assets/img/faroes/zoe_cool_horses.jpg,/assets/img/faroes/saksun-X3.jpg,/assets/img/faroes/conor_gasadalur_hero.jpg,/assets/img/faroes/solitary_saksun.jpg
+heroSlides: 	/assets/img/faroes/mykines3.jpg,/assets/img/faroes/zoe_cool_horses.jpg,/assets/img/faroes/saksun-x3.jpg,/assets/img/faroes/conor_gasadalur_hero.jpg,/assets/img/faroes/solitary_saksun.jpg
 seller: 		"3 teachers, 6 days, 10 photographers."
 social_image: 	/assets/img/faroes/social_image_may_2017.jpg
 earlybirdprice: 1750
