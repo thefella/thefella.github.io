@@ -150,6 +150,7 @@ function slideshow(speed) {
 	//! Check to see if page has slideshow or not
 	if ($('[data-slideshow]').length) {
 		console.log('Slideshow discovered on page');
+		$('body').addClass('slideshow-page');
 	} else {
 		return;
 	}
