@@ -1,5 +1,5 @@
 ---
-redirect_from: 	"/"
+#redirect_from: 	"/"
 
 # BASICS
 title: 			"Faroe Islands May 2016"

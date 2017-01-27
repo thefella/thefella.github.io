@@ -1,5 +1,5 @@
 ---
-#redirect_from: 	"/"
+redirect_from: 	"/"
 
 # BASICS
 title: 			"Faroe Islands May 2017"
@@ -50,7 +50,7 @@ secondaryNav:
 tags:
   - faroes
 categories:
-  #- upcoming
+  - upcoming
 
 
 # SITEMAP
