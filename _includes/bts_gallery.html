@@ -1,0 +1,21 @@
+<section id="bts-gallery" class="group photo-group gallery-group bts-gallery-group" style="background-image:url('{{ include.background }}');">
+	<header>
+		<h1>{% if include.title %}{{ include.title }}{% else %}Previous Workshops in {{ page.location }}{% endif %}</h1>
+	</header>
+	
+	<figure>
+	{% for photo in include.photos %}
+	<a class="view" rel="gallery-bts" href="{{ photo.large }}" title="Gallery: Photo {{ forloop.index }} (fullsize)">
+		<img src="{{ photo.thumb }}" alt="">
+	</a>{% endfor %}
+	
+	<figcaption>Images of previous workshops in {{ page.location }}</figcaption>
+	</figure>
+	
+	{% if include.instagram_link %}
+	<div class="extra">
+		<p>Check out <a target="_blank" title="Open Instagram in a new tab or window" href="{{ include.instagram_link }}">Instagram</a> for photos from our previous workshops!</p>
+	</div>
+	{% endif %}
+	
+</section>
