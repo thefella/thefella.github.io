@@ -105,6 +105,24 @@ gallery:
     thumb: /assets/img/iceland/gallery/the_frozen_teeth-th.jpg
 
 
+btsgallery:
+  - large: /assets/img/iceland/btsgallery/dan-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/dan-X2.jpg
+  - large: /assets/img/iceland/btsgallery/van-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/van-X2.jpg
+  - large: /assets/img/iceland/btsgallery/greg2-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/greg2-X2.jpg
+  - large: /assets/img/iceland/btsgallery/finn-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/finn-X2.jpg
+  - large: /assets/img/iceland/btsgallery/sarah2-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/sarah2-X2.jpg
+  - large: /assets/img/iceland/btsgallery/finn_dan-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/finn_dan-X2.jpg
+  - large: /assets/img/iceland/btsgallery/sara-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/sara-X2.jpg
+  - large: /assets/img/iceland/btsgallery/greg-X2.jpg
+    thumb: /assets/img/iceland/btsgallery/thumbs/greg-X2.jpg
+
 
 intro: 
     title: "Experience Iceland&rsquo;s iconic landscapes alongside experienced photographers. Then learn how to make your images look amazing."
