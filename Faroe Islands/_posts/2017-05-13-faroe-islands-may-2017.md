@@ -120,4 +120,4 @@ layout: 		workshop
 {% endcomment %}
 
 [//]: # BTS Gallery
-{% include bts_gallery.html title="Previous Workshops - Faroe Islands 2016" photos=site.data.faroes.may-2017.btsgallery background="/assets/img/faroes/dan_huts.jpg" instagram_link="https://www.instagram.com/explore/tags/f8faroeislands/" %}
+{% include bts_gallery.html title="Previous Workshops - Faroe Islands 2016" photos=site.data.faroes.may-2017.btsgallery background="/assets/img/faroes/dan_huts.jpg" instagram_hashtag="f8faroeislands" %}

@@ -12,9 +12,9 @@
 	<figcaption>Images of previous workshops in {{ page.location }}</figcaption>
 	</figure>
 	
-	{% if include.instagram_link %}
+	{% if include.instagram_hashtag %}
 	<div class="extra">
-		<p>Check out <a target="_blank" title="Open Instagram in a new tab or window" href="{{ include.instagram_link }}">Instagram</a> for photos from our previous workshops!</p>
+		<p>Check out <a target="_blank" title="Open Instagram in a new tab or window" href="https://www.instagram.com/explore/tags/{{ include.instagram_hashtag }}/">#{{ include.instagram_hashtag }}</a> on Instagram for more photos from our workshops and participants!</p>		
 	</div>
 	{% endif %}
 	
