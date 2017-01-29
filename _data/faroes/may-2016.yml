@@ -99,6 +99,25 @@ gallery:
     thumb: /assets/img/faroes/gallery/conor_saksun_small.jpg
 
 
+btsgallery:
+  - large: /assets/img/faroes/btsgallery/karsten-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/karsten-X2.jpg
+  - large: /assets/img/faroes/btsgallery/lizzie-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/lizzie-X2.jpg
+  - large: /assets/img/faroes/btsgallery/viewpoint-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/viewpoint-X2.jpg
+  - large: /assets/img/faroes/btsgallery/lake-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/lake-X2.jpg
+  - large: /assets/img/faroes/btsgallery/windy_road-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/windy_road-X2.jpg
+  - large: /assets/img/faroes/btsgallery/dan_puffins-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/dan_puffins-X2.jpg
+  - large: /assets/img/faroes/btsgallery/group_waterfall-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/group_waterfall-X2.jpg
+  - large: /assets/img/faroes/btsgallery/christine_road-X2.jpg
+    thumb: /assets/img/faroes/btsgallery/thumbs/christine_road-X2.jpg
+
+
 sponsor:
   title: "Sponsored by Olympus"
   body: >

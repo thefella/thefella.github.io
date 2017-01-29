@@ -113,5 +113,10 @@ layout: 		workshop
 [//]: # VFI
 {% include vfi.html %}
 
+{% comment %}
 [//]: # Gallery
 {% include gallery.html photos=site.data.faroes.may-2016.gallery background="/assets/img/faroes/dan_huts.jpg" %}
+{% endcomment %}
+
+[//]: # BTS Gallery
+{% include bts_gallery.html title="See what we got up to!" photos=site.data.faroes.may-2016.btsgallery background="/assets/img/faroes/dan_huts.jpg" instagram_hashtag="f8faroeislands" %}
