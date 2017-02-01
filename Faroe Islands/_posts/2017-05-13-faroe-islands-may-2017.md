@@ -26,7 +26,7 @@ earlybirdprice: 1750
 published: 		true
 status: 		confirmed
 soldout: 		false
-earlybird: 		true
+earlybird: 		false
 
 
 # BOOKING AND MAILING
