@@ -1,6 +1,6 @@
 <section id="booking" class="group">
 
-{% if page.soldout or page.date <= site.time %}
+{% if page.soldout or page.ended or page.date <= site.time %}
 {% include mailchimp.html %}
 {% else %}
 {% if page.getinvited %}

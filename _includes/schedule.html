@@ -22,5 +22,5 @@
 </article>
 {% endfor %}
 
-<p class="book"><a class="call-to-action" href="#booking">What are you waiting for? <span class="phrase">Book now! &raquo;</span></a></p>
+<p class="book"><a class="call-to-action" href="#booking">{% if page.soldout or page.ended %}Sign up for our mailing list!{% else %}What are you waiting for? <span class="phrase">Book now! &raquo;</span>{% endif %}</a></p>
 </section>

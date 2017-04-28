@@ -26,6 +26,7 @@ earlybirdprice: 1750
 published: 		true
 status: 		confirmed
 soldout: 		false
+ended: 			true
 earlybird: 		false
 
 

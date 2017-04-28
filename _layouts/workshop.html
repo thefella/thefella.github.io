@@ -27,7 +27,7 @@ layout: default
 	</div>{% endif %}	
 	
 	{% if page.seller %}<p class="seller">{{ page.seller }}</p>{% endif %}
-	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out! <br>Join our mailing list{% else %}Reserve your place! &raquo;{% endif %}</a></p>
+	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out! <br>Join our mailing list{% elsif page.ended %}Registration over. <br>Join our mailing list instead!{% else %}Reserve your place! &raquo;{% endif %}</a></p>
 </section>
 
 
