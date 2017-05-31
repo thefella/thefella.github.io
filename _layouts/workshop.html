@@ -27,7 +27,13 @@ layout: default
 	</div>{% endif %}	
 	
 	{% if page.seller %}<p class="seller">{{ page.seller }}</p>{% endif %}
-	<p class="cta"><a class="call-to-action phrase" href="#booking">{% if page.soldout %}Sold out! <br>Join our mailing list{% elsif page.ended %}Registration over. <br>Join our mailing list instead!{% else %}Reserve your place! &raquo;{% endif %}</a></p>
+	<p class="cta"><a class="call-to-action phrase" href="#booking">
+		{% if page.date <= site.time %} 
+			Join our mailing list <br><span class="mailing-list-teaser">Be the first to hear about the next f8 workshop!</span>
+		{% else %}
+			{% if page.soldout %}Sold out! <br>Join our mailing list{% elsif page.ended %}Registration over. <br>Join our mailing list instead!{% else %}Reserve your place! &raquo;{% endif %}
+		{% endif %}
+		</a></p>
 </section>
 
 

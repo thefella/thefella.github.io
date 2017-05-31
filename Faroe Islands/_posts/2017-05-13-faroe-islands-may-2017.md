@@ -26,7 +26,7 @@ earlybirdprice: 1750
 published: 		true
 status: 		confirmed
 soldout: 		false
-ended: 			true
+ended: 			false
 earlybird: 		false
 
 
@@ -51,7 +51,7 @@ secondaryNav:
 tags:
   - faroes
 categories:
-  - upcoming
+  - previous
 
 
 # SITEMAP
