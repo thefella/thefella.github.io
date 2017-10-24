@@ -54,7 +54,7 @@ secondaryNav:
 tags:
   - faroes
 categories:
-  - private
+  - upcoming
 
 
 # SITEMAP
