@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://f8workshops.com" # the base hostname & protocol for your site
 enforce_ssl: f8workshops.com
 future: true
-gems:
+plugins:
   - jekyll-redirect-from
 
 # Build settings

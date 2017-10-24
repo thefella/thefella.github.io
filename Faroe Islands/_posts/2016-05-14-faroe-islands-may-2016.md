@@ -24,6 +24,7 @@ social_image: 	/assets/img/faroes/social_image.jpg
 published: 		true
 status: 		confirmed
 soldout: 		true
+secret: 		false
 
 
 # BOOKING AND MAILING

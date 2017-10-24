@@ -28,6 +28,7 @@ status: 		confirmed
 soldout: 		false
 ended: 			false
 earlybird: 		false
+secret: 		false
 
 
 # BOOKING AND MAILING
