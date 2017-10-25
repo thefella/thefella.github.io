@@ -1,6 +1,6 @@
 <section id="schedule" class="group photo-group schedule-group listful" style="background-image:url('{{ include.image }}');" markdown="1">
 <header>
-<h1>{{ include.title }}{% if include.byline %} <span class="byline">{{ include.byline }}</span>{% endif %}</h1>
+<h1>{{ include.title }} <span class="byline">{{ page.date | date: '%A %e' }} to {{ page.endDate | date: '%A %e' }} {{ page.date | date: '%B' }}, {{ page.date | date: '%Y' }} {% if include.byline %}&mdash; {{ include.byline }}{% endif %}</span></h1>
 <p class="price">{{ include.price }}</p>
 {% if include.bonus %}<p class="bonus" markdown="1">{{ include.bonus }}</p>{% endif %}
 </header>

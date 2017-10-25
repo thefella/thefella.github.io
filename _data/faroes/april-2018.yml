@@ -12,13 +12,13 @@ schedule:
       image: faroes/jeff_under_waterfall.jpg
       summary: "We’ll spend the week exploring the various islands and start shooting the majestic scenery."
       items:
-        - "Sunrise shoot (weather permitting)."
+        - "Sunrise and sunset shoots (weather permitting)."
         - "Visits to some of our favourite photography locations on the Faroe Islands including&#58; *Lake Sørvágsvatn*, *Gásadalur*, *Kalsoy*, *Saksun* and *Gjógv*."
         - "See lakes, waterfalls, mountains, cliffs and more!"
         - "Each day we'll have a mix of shooting and editing tutorials, with the freedom to adapt if the weather changes!"
         - "Instagram Workshop: whether you already have an Instagram feed or would like to start one, in this session we will show you how to grow your profile/brand on Instagram with everything you will need to know!"
 
-    - name: Sat 20th
+    - name: Friday 20th
       image: faroes/windy_road.jpg
       summary: "Time to relax and maybe even review and process the images you've taken on these magnificent islands!"
       items:
@@ -42,7 +42,7 @@ details:
       - Head torch
       - Passport!
     included:
-      - Accommodation for the whole trip - 7 nights in 4* *[Hotel Føroyar](http://www.hotelforoyar.com)*
+      - Accommodation for the whole trip - 7 nights in 4* *[Hotel Føroyar](http://www.hotelforoyar.com)* <span>(Sat 14th - Fri 20th April included. Departure day is 21st April.)</span>
       - Car hire and fuel
       - Breakfast and lunch, plus welcome and farewell dinners! 
       - Tuition and post-processing masterclass (DSLR/smartphone) for all levels
@@ -102,22 +102,22 @@ gallery:
 
 
 btsgallery:
-  - large: /assets/img/faroes/btsgallery_2017/karsten-X2.jpg
-    thumb: /assets/img/faroes/btsgallery_2017/thumbs/karsten-X2.jpg
   - large: /assets/img/faroes/btsgallery_2017/lizzie-X2.jpg
     thumb: /assets/img/faroes/btsgallery_2017/thumbs/lizzie-X2.jpg
+  - large: /assets/img/faroes/btsgallery_2017/karsten-X2.jpg
+    thumb: /assets/img/faroes/btsgallery_2017/thumbs/karsten-X2.jpg
   - large: /assets/img/faroes/btsgallery_2017/viewpoint-X2.jpg
     thumb: /assets/img/faroes/btsgallery_2017/thumbs/viewpoint-X2.jpg
   - large: /assets/img/faroes/btsgallery_2017/lake-X2.jpg
     thumb: /assets/img/faroes/btsgallery_2017/thumbs/lake-X2.jpg
   - large: /assets/img/faroes/btsgallery_2017/windy_road-X2.jpg
     thumb: /assets/img/faroes/btsgallery_2017/thumbs/windy_road-X2.jpg
-  - large: /assets/img/faroes/btsgallery_2017/dan_puffins-X2.jpg
-    thumb: /assets/img/faroes/btsgallery_2017/thumbs/dan_puffins-X2.jpg
+  - large: /assets/img/faroes/btsgallery_2017/kalsoy_ridge-X2.jpg
+    thumb: /assets/img/faroes/btsgallery_2017/thumbs/kalsoy_ridge-X2.jpg
   - large: /assets/img/faroes/btsgallery_2017/group_waterfall-X2.jpg
     thumb: /assets/img/faroes/btsgallery_2017/thumbs/group_waterfall-X2.jpg
-  - large: /assets/img/faroes/btsgallery_2017/christine_road-X2.jpg
-    thumb: /assets/img/faroes/btsgallery_2017/thumbs/christine_road-X2.jpg
+  - large: /assets/img/faroes/btsgallery_2017/renee_gorge-X2.jpg
+    thumb: /assets/img/faroes/btsgallery_2017/thumbs/renee_gorge-X2.jpg
     
 
 sponsor:
@@ -145,4 +145,14 @@ intro:
 
         This is an ideal workshop for any skill level — whether you’re a complete beginner or seasoned pro, this fantastic trip around the Faroe Islands will enrich your photographic experience.
 
-        What’s more, if there’s anything specific you want to learn or improve with your own photography, we can help. Just let us know what you want to work on ahead of time and we'll do our best to accommodate your needs!
+        What’s more, if there’s anything specific you want to learn or improve with your own photography, we can help. Just let us know what you want to work on ahead of time and we'll do our best to accommodate your needs! 
+        
+        - Full-day adventures, every day, with different aspects of landscape photography.
+        
+        - Hands-on, personal instruction at every location, no matter what level you are.
+        
+        - Our teaching is tailored to you and includes everything from basic camera settings and composition to panoramas, sunrise &amp; sunset photography and, if weather permits, star and aurora photography. 
+        
+        - Our image selection and post-processing workflow in Adobe Lightroom Classic CC and more advanced techniques like exposure blending in Adobe Photoshop CC. Try out the [Adobe Photography bundle](https://www.adobe.com/creativecloud/photography.html){:target="_blank"} if you don't already have it.
+        
+        - A unique opportunity to make new friendships and learn from your fellow photographers - and above all, we have fun!

@@ -34,7 +34,7 @@ secret: 		true
 # BOOKING AND MAILING
 contactemail: 		zoetimmers@me.com
 tandc: 				"/assets/docs/faroes/Faroe_Islands_April_2018_T&C.pdf"
-billetto: 			170797
+billetto: 			230307
 mailchimpSite: 		FAROES18
 
 
@@ -76,7 +76,7 @@ layout: 		workshop
 
 
 [//]: # Lisa Quote
-{% include quote.html quote="Travelling with f/8 to the Faroe Islands brought me to places I would have never gotten to on my own. The workshop was the perfect blend of instruction, adventure and a tremendous amount of fun with our small group and great photographers leading the way." cite="Lisa Rubens, May 2017" image="/assets/img/faroes/bg_jeff_viewpoint_blur.jpg" wow="fadeInLeft" %}
+{% include quote.html quote="The f/8 workshop was the perfect blend of instruction, adventure and a tremendous amount of fun with our small group and great photographers leading the way." cite="Lisa Rubens, May 2017" image="/assets/img/faroes/bg_jeff_viewpoint_blur.jpg" wow="fadeInLeft" %}
 
 
 [//]: # Teachers
@@ -112,5 +112,5 @@ layout: 		workshop
 
 
 [//]: # BTS Gallery
-{% include bts_gallery.html title="Previous Workshops - Faroe Islands 2017" photos=site.data.faroes.april-2018.btsgallery background="/assets/img/faroes/bg_road_houses_blur.jpg" instagram_hashtag="f8faroeislands" %}
+{% include bts_gallery.html title="Previous Workshops - Faroe Islands 2016 &amp; 2017" photos=site.data.faroes.april-2018.btsgallery background="/assets/img/faroes/bg_road_houses_blur.jpg" instagram_hashtag="f8faroeislands" %}
 
