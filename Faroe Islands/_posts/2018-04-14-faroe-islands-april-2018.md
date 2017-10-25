@@ -23,12 +23,14 @@ earlybirdprice: 2300
 
 
 # AVAILABILITY
-published: 		true
-status: 		confirmed
-soldout: 		false
-ended: 			false
-earlybird: 		true
-secret: 		true
+published: 			true
+status: 			confirmed
+soldout: 			false
+ended: 				false
+earlybird: 			false
+earlybirdsoldout: 	false
+lastfew: 			false
+secret: 			true
 
 
 # BOOKING AND MAILING

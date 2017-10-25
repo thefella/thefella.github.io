@@ -260,6 +260,91 @@ header.lengthy h1 {
 
 
 
+//! Banner (sold out / early bird / last few)
+.banner {
+	color: rgba(255,255,255,0.95);
+	display: block;
+	font-size: 1.4em;
+	font-weight: bold;
+	margin: 0;
+	overflow: hidden;
+	padding: 0.35em 3em;
+	text-align: center;
+	width: 100%;
+}
+
+.banner span {
+	display: block;
+	font-size: 0.75em;
+	margin-top: -0.25em;
+	text-align: center;
+}
+
+.banner a {
+	border: none;
+	color: inherit;
+	display: block;
+	text-decoration: none;
+}
+
+.banner.soldout {
+	background-color: rgba(0,128,0,0.9);
+}
+
+.banner.earlybird {
+	background-color: rgba(211,68,20,0.9);
+}
+
+.banner.lastfew {
+	background-color: rgba(167, 0, 0, 0.9); 
+}
+
+
+	@media screen and (min-width: 73em) { 
+		.banner {
+			padding: 0.25em 3em;
+			position: fixed;
+			white-space: nowrap;
+			width: auto;
+			z-index: 1000;
+			
+			-webkit-transform: rotate(-45deg);
+			   -moz-transform: rotate(-45deg);
+			    -ms-transform: rotate(-45deg);
+			        transform: rotate(-45deg);
+		}
+
+
+		.banner.earlybird {
+			left: -3.5em;
+			top: 2.15em;
+		}
+		
+		.banner.lastfew {
+			left: -3.25em;
+			top: 2.35em;
+		}
+		
+		.banner.soldout {
+			left: -2.75em;
+			top: 1.25em;
+
+		}
+	}
+	
+	@media screen and (min-width: 65em) {
+		.banner {
+			font-size: 1.4em;
+		}
+	}
+
+	@media screen and (min-width: 80em) {
+		.banner {
+			font-size: 1.6em;
+		}
+	}
+
+/*
 //! Ribbon (sold out / early bird)
 .ribbon {
 	background-color: rgba(0,128,0,0.9);
@@ -290,8 +375,16 @@ header.lengthy h1 {
 	display: none;
 }
 
+.ribbon.lastfew {
+	background-color: rgba(167, 0, 0, 0.9); 
+	left: -3.25em;
+    top: 2.35em;
+    display: none;
+}
+
 	@media screen and (min-width: 73em) { 
-		.ribbon.earlybird {
+		.ribbon.earlybird,
+		.ribbon.lastfew {
 			display: block;
 		}
 	}
@@ -320,7 +413,7 @@ header.lengthy h1 {
 			font-size: 1.6em;
 		}
 	}
-
+*/
 
 
 //! Video

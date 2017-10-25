@@ -36,6 +36,13 @@ layout: default
 		</a></p>
 </section>
 
+{% if page.soldout %}<p class="banner soldout">Sold Out</p>
+{% endif %}
+{% if page.earlybird %}<p class="banner earlybird"><a href="#booking">Early Bird Price! {% if page.earlybirdsoldout %}<span>Early bird sold out</span>{% else %}{% if page.pageClass %} <span>&pound;{{ page.earlybirdprice }}</span>{% endif %}{% endif %}</a></p>
+{% endif %}
+{% if page.lastfew %}<p class="banner lastfew"><a href="#booking">Last Few Tickets! <span>Hurry and book yours!</span></a></p>
+{% endif %}
+
 
 {{ content }}
 

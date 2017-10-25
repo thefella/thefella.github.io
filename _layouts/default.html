@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 {% include head.html %}
-<body id="top" class="{% if page.pageClass %}{{ page.pageClass }}{% else %}{{ site.pageClass }}{% endif %}">
+<body id="top" class="{% if page.pageClass %}{{ page.pageClass }}{% else %}{{ site.pageClass }}{% endif %}{% if page.soldout or page.earlybird or page.lastfew %} has-ribbon{% endif %}">
+{% comment %}
 {% if page.soldout %}<b class="ribbon soldout">Sold Out</b>
 {% endif %}
-{% if page.earlybird %}<b class="ribbon earlybird">Early Bird Price!{% if page.pageClass %} <span>&pound;{{ page.earlybirdprice }}</span>{% endif %}</b>
+{% if page.earlybird %}<b class="ribbon earlybird">Early Bird Price! {% if page.earlybirdsoldout %}<span>Early bird sold out</span>{% else %}{% if page.pageClass %} <span>&pound;{{ page.earlybirdprice }}</span>{% endif %}{% endif %}</b>
 {% endif %}
+{% if page.lastfew %}<b class="ribbon lastfew">Last Few Tickets! <span>Hurry and book yours!</span></b>
+{% endif %}
+{% endcomment %}
 <div class="global-wrapper">
 	
 <!--global menu-->
