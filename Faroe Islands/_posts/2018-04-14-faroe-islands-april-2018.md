@@ -84,7 +84,7 @@ layout: 		workshop
 
 
 [//]: # Schedule
-{% include schedule.html title="Faroe Islands Photography Adventure" byline="6 days, 7 nights. Fitness level: Medium" price="&pound;2500 per-person <span class=\"byline\">(<b>&pound;2300</b> early bird!)</span>" bonus="" image="/assets/img/faroes/bg_kalsoy_drone_blur.jpg" schedule=site.data.faroes.april-2018.schedule %}
+{% include schedule.html title="Faroe Islands Photography Adventure" byline="6 days, 7 nights. <br>Fitness level: Medium" price="&pound;2500 per-person <span class=\"byline\">(<b>&pound;2300</b> early bird!)</span>" bonus="" image="/assets/img/faroes/bg_kalsoy_drone_blur.jpg" schedule=site.data.faroes.april-2018.schedule %}
 
 
 [//]: # Details
