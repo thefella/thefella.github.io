@@ -69,7 +69,7 @@ sitemap:
 
 
 # LAYOUT
-pageClass: 		"workshop faroe-islands faroe-islands-april-2018 fullscreen"
+pageClass: 		"workshop faroe-islands faroe-islands-april-2018 not-fullscreen"
 layout: 		workshop
 ---
 
