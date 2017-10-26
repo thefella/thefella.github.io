@@ -1,5 +1,5 @@
 ---
-#redirect_from: 	"/"
+redirect_from: 	"/"
 
 # BASICS
 title: 			"Faroe Islands April 2018"
@@ -15,6 +15,7 @@ heroSlides: 	/assets/img/faroes/hero_cloud_hat.jpg,/assets/img/faroes/hero_jeff_
 seller: 		"3 teachers, 6 days, 10 photographers."
 social_image: 	/assets/img/faroes/social_image_april_2018.jpg
 earlybirdprice: 2300
+#episode: 		III
 
 
 # SPONSOR
@@ -30,7 +31,7 @@ ended: 				false
 earlybird: 			false
 earlybirdsoldout: 	false
 lastfew: 			false
-secret: 			true
+secret: 			false
 
 
 # BOOKING AND MAILING
@@ -56,7 +57,7 @@ secondaryNav:
 tags:
   - faroes
 categories:
-  - private
+  - upcoming
 
 
 # SITEMAP
@@ -68,7 +69,7 @@ sitemap:
 
 
 # LAYOUT
-pageClass: 		"workshop faroe-islands faroe-islands-april-2018"
+pageClass: 		"workshop faroe-islands faroe-islands-april-2018 fullscreen"
 layout: 		workshop
 ---
 
