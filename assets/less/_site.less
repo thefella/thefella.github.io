@@ -235,6 +235,20 @@ header.lengthy h1 {
 			font-size: 2em;
 		}
 	}
+	
+	
+	//! iOS doesn't like fixed backgrounds
+	@media only screen 
+		(max-device-width: 812px) 
+		and (-webkit-min-device-pixel-ratio: 3), 
+		(max-device-width: 667px) 
+		and (-webkit-min-device-pixel-ratio: 2) {
+			.quote {
+			background-attachment: initial;
+		}
+	  }
+
+
 
 .quote blockquote {
 	line-height: 1.2;
