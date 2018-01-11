@@ -1,0 +1,136 @@
+schedule: 
+  - name: Saturday June 16
+    image: iceland/jeff_ox.jpg
+    summary: "We'll pick you up from the airport and make sure you're all set for the week ahead!"
+    items:
+      - __Arrival day__ &mdash; group pickups at the airport.
+      - __Transfer to Akureyri__ &mdash; in the afternoon, we will drive to Akureyri. It’s a 5-hour drive, so we’re getting it out of the way on our first day together.
+      - __Introduction__ &mdash; We’ll walk through the week’s plan, check out gear and get to know everyone.
+      - Dinner and drinks
+    
+  - name: Sun 17 &mdash; Fri 22
+    image: iceland/jeff_reflect.jpg
+    summary: "We'll spend the week exploring Iceland and start shooting its stunning landscapes."
+    items:
+      - Sunrise and sunset shoots (weather permitting).
+      - Midnight sun hours, so please expect varying departure times.
+      - Visits to our favourite photography locations in Iceland, including Godafoss, Kirkjufellsfoss, and the South Coast.
+      - Photography and editing tutorials
+      - "Scheduled talks: Social Media for Photography, Photography Business, Fine Art Workflow"
+      - One-on-One Portfolio or Image Critique
+        
+  - name: Saturday June 23
+    image: iceland/jeff_selja.jpg
+    summary: "It's departure day! In our experience, most flights will be in the afternoon. We'll use the morning to wrap up any additional questions and complete a short photowalk in Reykjavik."
+    items:
+      - Airport transfers
+      - Short photowalk in Reykjavik (flights permitting)
+      - Farewell breakfast
+
+
+details: 
+  intro: "We'll travel along Iceland’s West and South Coasts, linking Akureyri, Reykjavik and Vik. We'll stay in only three hotels throughout the week, but visit many of the country's most iconic photography locations."
+  gear_intro: "The landscapes are amazing, but the weather can be unpredictable in Iceland. As we approach our departure date, we'll forward you a complete packing guide. For now, here are some of the things we suggest:"
+  map: iceland/staticmap_iceland.jpg
+  gear: 
+    - Camera, lenses and plenty of batteries and memory cards
+    - Tripod
+    - ND filters for daytime shooting (recommended)
+    - Appropriate outdoor clothing (wet-weather gear, hiking boots, wind-breaker)
+    - Laptop for post-processing with Lightroom and Photoshop
+    - A positive attitude and willingness to learn!
+    - Valid Travel and medical insurance
+  included: 
+    - Accommodation for the whole trip – 7 nights total (Sat June 16 to Fri June 22 included. Departure day is June 23.)
+    - Car hire and fuel
+    - Breakfast at each hotel
+    - One-on-One portfolio review
+    - Photography and post-processing instruction
+  notincluded: 
+    - Airfare to and from Reykjavik
+    - Lunches and Dinners
+    - Alcoholic Beverages
+    - Visa costs (if applicable)
+    - Travel and Medical Insurance
+    - Photography equipment insurance
+
+
+faq: 
+  - question: How is payment handled?
+    answer: We like to keep payment simple. If you're keen to register, please follow the links below and we'll forward you a PayPal invoice that you can pay with credit card, PayPal, or bank transfer. If you can't pay with PayPal, please get in touch with us to make alternative arrangements.
+  - question: What type of accommodation should I expect?
+    answer: Our workshops put photography first, so we select hotels that give us the most flexibility for arrival/departure times and easy access to key landmarks. We know the hotels, too, so rest assured that they’re clean, comfortable and within walking distance of services. All our workshops are based on double occupancy, which means we’ll pair you with a workshop participant if you are traveling alone. If you require your own room, a single supplement is available at additional cost. Please contact us to learn more.
+  - question: What skill levels do you teach?
+    answer: We routinely have beginners and advanced photographers on our tours and it’s easy to accommodate everyone. We have three instructors and only 10 guests, so expect plenty of one-on-one instruction.
+  - question: What about cancellations?
+    answer: Please check out complete [Terms and Conditions](/assets/docs/iceland/Adventure%20Photo%20Trips%20-%20TC.pdf) for more details.
+  - question: What about flights? 
+    answer: Flights to Iceland are not included, so shop around for a deal that suits you! Iceland is well connected, but please make sure your flights arrive to and from Iceland’s Keflavik Airport (KEF), which is the main airport near Reykjavik. If you’re arriving early or departing after our tour finishes, we’ll do our best to provide appropriate transfers.
+  - question: What if the weather is bad?
+    answer: The weather will be bad, but that’s what makes some of the best images. In the summer, Iceland has varying weather conditions and almost anything can happen. We will always have a backup plan should the weather be a major issue, but please come prepared for some wet and windy conditions! No matter the weather, we’ll make sure you’re learning valuable photography skills.
+  - question: What if I need more information?
+    answer: Feel free to [contact us](mailto:jeff@jeffbartlettmedia.com) with any questions that come to mind. Once you’re registered, we will send out regular email updates with more details.
+
+
+gallery: 
+  - large: /assets/img/iceland/gallery/the_horse_shouter-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_horse_shouter-th.jpg
+  - large: /assets/img/iceland/gallery/the_lost_plane-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_lost_plane-th.jpg
+  - large: /assets/img/iceland/gallery/under_the_green-xl.jpg
+    thumb: /assets/img/iceland/gallery/under_the_green-th.jpg
+  - large: /assets/img/iceland/gallery/midnight_coast-xl.jpg
+    thumb: /assets/img/iceland/gallery/midnight_coast-th.jpg
+  - large: /assets/img/iceland/gallery/the_frozen_teeth-xl.jpg
+    thumb: /assets/img/iceland/gallery/the_frozen_teeth-th.jpg
+
+
+btsgallery:
+  - large: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20001-X2.jpg
+    thumb: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20001-600x600.jpg
+  - large: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20002-X2.jpg
+    thumb: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20002-600x600.jpg
+  - large: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20007-X2.jpg
+    thumb: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20007-600x600.jpg
+  - large: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20004-X2.jpg
+    thumb: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20004-600x600.jpg
+  - large: /assets/img/iceland/2018/JBartlett-0980-5-X2.jpg
+    thumb: /assets/img/iceland/2018/JBartlett-0980-5-600x600.jpg
+  - large: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20003-X2.jpg
+    thumb: /assets/img/iceland/2018/Ivan%20Olafsson%20-%20003-600x600.jpg
+  - large: /assets/img/iceland/2018/JBartlett-7462-15-X2.jpg
+    thumb: /assets/img/iceland/2018/JBartlett-7462-15-600x600.jpg
+  - large: /assets/img/iceland/2018/JBartlett-0855-2-X2.jpg
+    thumb: /assets/img/iceland/2018/JBartlett-0855-2-600x600.jpg
+
+
+
+
+intro:
+  title: "Join us as we explore one of Europe’s iconic landscape destinations. Iceland is full of epic landscapes and moody weather just waiting for you to photograph! We’ll chase the midnight sun during the summer solstice, too, enjoying hours of golden light during the longest day of the year."
+  teaser: "/assets/img/iceland/jeff_kirk_reflection.jpg"
+  body: | 
+    Our landscape photography and editing workshop will take you on a journey along Iceland’s west coast, from Reykjavik to Akureyri.  You’ll experience thunderous waterfalls, unbelievable fjords, and vast mountain landscapes. You might just recognize scenes from Walter Mitty or Game of Thrones.
+
+    All three instructors – [Conor MacNeill, Ivan Olafsson and Jeff Bartlett](#teachers) – have all lead photography workshops in Iceland. We’ve teamed up to launch Adventure Photo Trips’ inaugural workshop to share our passion for Iceland with you. While both Conor and Jeff have visited Iceland on multiple occasions, Ivan grew up in Reykjavik and has spent countless hours exploring the island with his camera. We’ve fine tuned the itinerary to spend less time in the vehicle and more time behind our cameras.
+
+    With only 10 participants taking part and dedicated personal instruction from each of us, this workshop is a learning experience like no other. You’ll learn how to photograph the amazing landscapes we visit and how to edit images to maximize their visual impact.
+
+    ### It's a Workshop for Everyone!
+
+    This workshop is ideal for photographers of any skill level. Seasoned pros can build their portfolios with images from some of Iceland’s most iconic locations. Beginners will enjoy dedicated instruction that will dramatically speed up their photography abilities.
+
+
+    We’re flexible teachers, too, so if there is anything specific you want to learn or improve, we are there to help. Just make sure to let us know and we’ll work hard to accommodate each unique request.
+
+    ### Our workshop includes:
+
+    - Daily photography adventures to some of Iceland’s most iconic landscapes, from thundering waterfalls to dramatic seascapes.
+
+    - Daily challenges that cover a variety of landscape photography techniques.
+
+    - Hands-on instruction at every photography location, no matter your skill level
+
+    - Guidance through image selection and post-processing workflow in Adobe Lightroom and Photoshop CC.
+
+    - An incredible travel experience and opportunity to challenge yourself creatively, make new friends and have fun along the way.

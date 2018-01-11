@@ -1,0 +1,92 @@
+//! Hide / show form and sent message
+#formsent:target > form, 
+#formsent > .form-response {
+	display: none;
+}
+
+#formsent:target > .form-response {
+	display: inherit;
+}
+
+
+.formspree {
+	margin: 0 auto;
+	max-width: 30em;
+}
+
+
+.form-response .success {
+	color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    margin: 1em 0 5em;
+    padding: 1.75em 2em;
+    text-align: center;
+}
+
+	.form-response .success p {
+		margin: 0;
+		padding: 0;
+	}
+
+
+.form {
+	background-color: rgba(0,0,0,0.03);
+	border-radius: 1em;
+	margin: 0 auto 5em;
+	padding: 2.2em 2em 0.75em;
+	width: 100%;
+}
+
+	.form label {
+		font-weight: bold;
+		margin: 0 1em 0.25em 0;
+	}
+
+	.form select, 
+	.form input {	
+		border: 1px solid #eee;
+		background: rgba(255,255,255,1);
+		padding: 0.8em 0.6em;
+		transition: all 0.3s ease-in-out;
+		width: 100%;
+	}
+	
+	
+	input:focus, 
+	textarea:focus,
+	select:focus {
+	    border-color: @primarycolor;
+	    outline: none;
+	    box-shadow: 0 0 5px 1px @primarycolor;
+	}
+	
+	.form select.number {
+		padding: 0.1em 0.5em;
+		width: 3em;
+	}
+	
+	.form p.submit-button {
+		text-align: right;
+	}
+	
+	.form button {
+		appearance: none;
+		background-color: @primarycolor;
+		border: solid 1px;
+		border-radius: 2px;
+		color: rgba(255,255,255,0.8);
+		font-size: 1em;
+		font-weight: 500;
+		padding: 0.2em 1em;
+		text-decoration: none;
+		text-shadow: none;
+		text-transform: uppercase;
+		transition: all 0.3s ease-in-out;
+	}
+	
+	.form button:hover, 
+	.form button:focus {
+		background-color: @primarycolor_hover;
+		color: white;
+	}

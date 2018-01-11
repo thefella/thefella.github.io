@@ -1,0 +1,58 @@
+<div id="formspree" class="formspree">
+	<header>
+		<h1>Get Tickets!</h1>
+		<p>Payment is secure and handled via Paypal. <span class="booking-tandc">(Read <a href="{{ page.tandc }}" download>our Terms &amp; Conditions</a>  before booking)</p>
+	</header>
+
+
+	<div id="formsent">
+
+		<form class="form contact-form" action="https://formspree.io/{{ page.contactemail }}" method="POST">	
+			<p>
+				<label for="number-of-people">Number of people:</label> 
+				<select id="number-of-people" name="number-of-people" class="number">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+			</p>
+			
+			<p>
+				<label for="fullname">Full name:</label><br>
+		    	<input type="text" id="fullname" name="fullname" placeholder="Your full name" required>
+			</p>
+		    
+		    <p>
+			    <label for="email">Email address:</label><br>
+		    	<input type="email" id="email" name="_replyto" placeholder="Your email address" required>
+		    </p>
+		    
+		    <p class="submit-button">
+		    	<button type="submit">Send Now</button>
+		    </p>
+		    
+		    <div class="hidden-form">
+			    <input type="hidden" name="_subject" value="Ticket Request">
+			    <input type="hidden" name="_next" value="{{ site.url }}{{ page.url }}#formsent">
+			    <input type="hidden" name="_cc" value="f8_contact_form@thefella.com">
+			    <input type="text" name="_gotcha" style="display:none">
+			    <input type="hidden" name="page_url" value="{{ site.url }}{{ page.url }}">
+		    </div>
+		</form>
+		
+		<div class="form-response">
+			<div class="success">
+				<p>Your message has been sent!</p>
+			</div>
+		</div>
+	
+	</div>
+
+</div>

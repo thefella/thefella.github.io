@@ -17,7 +17,7 @@
 		<article class="footer-group footer-workshops footer-upcoming">
 			<h3>Upcoming Workshops</h3>
 			<ul>
-				{% for post in site.categories.upcoming %}
+				{% for post in site.categories.upcoming reversed %}
 				{% if post.url %}{% if post.published == true and post.secret != true %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endif %}
 				{% endfor %}
 				
@@ -26,7 +26,7 @@
 				{% endif %}
 				<li>
 				  	<!--Stay tuned, as we are always working on new workshops!-->
-				  	<p>Coming soon in 2018: <b>Scotland</b>.</p>
+				  	<p>Coming in 2018: <b>Scotland</b>.</p>
 				  	
 				  	<p>Stay tuned, as we are always working on new workshops! <a href="http://f8workshops.us9.list-manage1.com/subscribe?u=927bff84c15d99b7107706fa6&id=54785e661e" target="_blank">Join our mailing list</a> and be the first to know!</p>
 				  
@@ -56,7 +56,7 @@
 		<article class="footer-group footer-workshops footer-previous">
 			<h3>Past Workshops</h3>
 			<ul>
-				{% for post in site.categories.previous %}
+				{% for post in site.categories.previous reversed %}
 				{% if post.url %}{% if post.published == true and post.secret != true %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endif %}
 				{% endfor %}
 			</ul>
