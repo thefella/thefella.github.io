@@ -16,7 +16,13 @@ layout: default
 	<header role="banner" class="vevent">
 		<h1 class="summary"{% if page.episode %} data-episode="{{ page.episode }}"{% endif %}><span class="host"><em class="f">f</em>/8 Photo Expeditions:</span> {{ page.hero }}</h1>
 		<p class="tagline">{{ page.tagline }}</p>
-		<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
+		
+		{% if page.tba %}
+			<p class="dates dates-tba">Dates TBA</p>
+		{% else %}
+			<p class="dates">{{ page.date | date: '%B' }} <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="dtstart">{{ page.date | date: '%-d' }}</time>&#8211;<time datetime="{{ page.endDate | date: "%Y-%m-%d" }}" class="dtend">{{ page.endDate | date: '%-d' }}</time>, {{ page.date | date: '%Y' }}</p>
+		{% endif %}
+		
 		<p class="location">{{ page.location }}</p>
 	</header>
 

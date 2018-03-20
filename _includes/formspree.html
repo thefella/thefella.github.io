@@ -1,13 +1,20 @@
 <div id="formspree" class="formspree">
 	<header>
-		<h1>Get Tickets!</h1>
-		<p>Payment is secure and handled via Paypal. <span class="booking-tandc">(Read <a href="{{ page.tandc }}" download>our Terms &amp; Conditions</a>  before booking)</p>
+		{% if page.tba %}
+			<h1>More Information</h1>
+			<p>If you're interested in attending or want more information, feel free to let us know and we'll get back to you!</p>
+		{% else %}
+			<h1>Get Tickets!</h1>
+			<p>Payment is secure and handled via Paypal. <span class="booking-tandc">(Read <a href="{{ page.tandc }}" download>our Terms &amp; Conditions</a>  before booking)</p>
+		{% endif %}
 	</header>
 
 
 	<div id="formsent">
 
 		<form class="form contact-form" action="https://formspree.io/{{ page.contactemail }}" method="POST">	
+			
+			{% if page.tba == false %}
 			<p>
 				<label for="number-of-people">Number of people:</label> 
 				<select id="number-of-people" name="number-of-people" class="number">
@@ -23,6 +30,7 @@
 					<option value="10">10</option>
 				</select>
 			</p>
+			{% endif %}
 			
 			<p>
 				<label for="fullname">Full name:</label><br>
@@ -33,6 +41,13 @@
 			    <label for="email">Email address:</label><br>
 		    	<input type="email" id="email" name="_replyto" placeholder="Your email address" required>
 		    </p>
+		    
+		    {% if page.tba %}
+		    <p>
+			    <label for="message">Message:</label><br>
+			    <textarea id="message" name="message" rows="7" placeholder="Your message"></textarea>
+		    </p>
+		    {% endif %}
 		    
 		    <p class="submit-button">
 		    	<button type="submit">Send Now</button>

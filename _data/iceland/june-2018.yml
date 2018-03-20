@@ -1,5 +1,5 @@
 schedule: 
-  - name: Saturday June 16
+  - name: Saturday
     image: iceland/jeff_ox.jpg
     summary: "We'll pick you up from the airport and make sure you're all set for the week ahead!"
     items:
@@ -8,7 +8,7 @@ schedule:
       - __Introduction__ &mdash; We’ll walk through the week’s plan, check out gear and get to know everyone.
       - Dinner and drinks
     
-  - name: Sun 17 &mdash; Fri 22
+  - name: Sun &mdash; Fri
     image: iceland/jeff_reflect.jpg
     summary: "We'll spend the week exploring Iceland and start shooting its stunning landscapes."
     items:
@@ -19,7 +19,7 @@ schedule:
       - "Scheduled talks: Social Media for Photography, Photography Business, Fine Art Workflow"
       - One-on-One Portfolio or Image Critique
         
-  - name: Saturday June 23
+  - name: Saturday June
     image: iceland/jeff_selja.jpg
     summary: "It's departure day! In our experience, most flights will be in the afternoon. We'll use the morning to wrap up any additional questions and complete a short photowalk in Reykjavik."
     items:
@@ -41,7 +41,7 @@ details:
     - A positive attitude and willingness to learn!
     - Valid Travel and medical insurance
   included: 
-    - Accommodation for the whole trip – 7 nights total (Sat June 16 to Fri June 22 included. Departure day is June 23.)
+    - Accommodation for the whole trip – 7 nights total (Sat to Fri included. Departure day is the Sat after this.)
     - Car hire and fuel
     - Breakfast at each hotel
     - One-on-One portfolio review

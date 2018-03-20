@@ -44,7 +44,8 @@
 	}
 
 	.form select, 
-	.form input {	
+	.form input, 
+	.form textarea {	
 		border: 1px solid #eee;
 		background: rgba(255,255,255,1);
 		padding: 0.8em 0.6em;
@@ -52,6 +53,10 @@
 		width: 100%;
 	}
 	
+	.form textarea {
+		resize: vertical;
+		transition: none;
+	}
 	
 	input:focus, 
 	textarea:focus,
@@ -59,6 +64,12 @@
 	    border-color: @primarycolor;
 	    outline: none;
 	    box-shadow: 0 0 5px 1px @primarycolor;
+	}
+	
+	.form ::placeholder {
+	   color: #d4d4d4;
+	   font-style: italic;
+	   font-weight: normal;
 	}
 	
 	.form select.number {
